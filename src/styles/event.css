@@ -1,0 +1,27 @@
+table.minimalistBlack {
+    border: 2px solid #f4b01b;
+    background-color: #FFFFFF;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  table.minimalistBlack td, table.minimalistBlack th {
+    border: 1px solid #f4b01b;
+    padding: 5px 4px;
+  }
+  table.minimalistBlack tbody td {
+    font-size: 13px;
+  }
+  table.minimalistBlack thead {
+    background: #ffffff;
+    border-bottom: 1px solid #f4b01b;
+  }
+  table.minimalistBlack thead th {
+    font-size: 15px;
+    font-weight: normal;
+    color: #f4b01b;
+    text-align: left;
+  }
+  table.minimalistBlack tfoot td {
+    font-size: 14px;
+  }
