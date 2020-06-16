@@ -1,7 +1,7 @@
 {
   "name": "cjcmarkets",
   "homepage": " ",
-  "version": "1.0.1",
+  "version": "1.0.01",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.4.1",
