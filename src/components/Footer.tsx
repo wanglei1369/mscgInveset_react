@@ -33,74 +33,31 @@ export default function Footer() {
                                     </p>
                                 </div>
                             </div>
-                            <div className="col-lg-3 col-md-12">
+                            <div className="col-lg-6 col-md-12">
                                 <div className="mt-5 mt-lg-0 text-center text-md-left">
-                                    <h4 className="mb-4 text-white">{t("footer.links")}</h4>
-                                    <ul className="list-unstyled li-space-lg">
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <Link className="text-white" to="/about-us">
-                                                {t("footer.aboutUs")}
-                                            </Link>
-                                        </li>
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <Link className="text-white" to="/why-choose-cjc">
-                                                {t("header.why")}
-                                            </Link>
-                                        </li>
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <Link className="text-white" to="/cooperate">
-                                                {t("header.partner")}
-                                            </Link>
-                                        </li>
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <Link className="text-white" to="/platform/windows">
-                                                {t("footer.platform")}
-                                            </Link>
-                                        </li>
-                                    </ul>
+                                    <p className="text-white">
+                                        <br/>
+                                        <br/>
+                                        {t("services.tradingPlatformMessage1")}
+                                        <br />
+                                        <span>
+                                            {t("services.tradingPlatformMessage2")}
+                                            {t("services.tradingPlatformMessage3")}
+                                            {t("services.tradingPlatformMessage4")}
+                                            {t("services.tradingPlatformMessage5")}
+                                        </span>
+                                        <br />
+                                        {t("services.tradingPlatformMessage6")}
+                                    </p>
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-12">
                                 <div className="mt-5 mt-lg-0 text-center text-md-left">
-                                    <h4 className="mb-4 text-white">{t("footer.documents")}</h4>
-                                    <ul className="list-unstyled li-space-lg">
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <a
-                                                className="text-white"
-                                                href="/media/documents/MSC Group - Client Services Agreement - 22032019.pdf">
-                                                {t("footer.clientServicesAgreement")}
-                                            </a>
-                                        </li>
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <a
-                                                className="text-white"
-                                                href="/media/documents/MSC Group - Product Disclosure Statement - 27082019.pdf">
-                                                {t("footer.productDisclosureStatement")}
-                                            </a>
-                                        </li>
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <a
-                                                className="text-white"
-                                                href="/media/documents/MSC Group - Fees Schedule.pdf">
-                                                {t("footer.feesSchedule")}
-                                            </a>
-                                        </li>
-                                        <li className="media">
-                                            <span className="iconfont icon-square text-red"></span>
-                                            <a
-                                                className="text-white"
-                                                href="/media/documents/MSC Group - Contract Specifications.pdf">
-                                                {t("footer.contractSpecifications")}
-                                            </a>
-                                        </li>
-                                    </ul>
+                                    <br/>
+                                    <br/>
+                                    <Link to="/platform/windows" className="btn-outline">
+                                        {t("footer.platform")}
+                                    </Link>
                                 </div>
                             </div>
 
@@ -138,29 +95,25 @@ export default function Footer() {
                                 {/* <h6 className="text-white">{t("footer.productDisclosureStatement")}</h6>
                                 <p className="footer-paragraph">{t("footer.productDisclosureStatementMessage")}</p> */}
                             </div>
-                            <div className="col-lg-12 mt-2">
+                            {/* <div className="col-lg-12 mt-2">
                                 <h6 className="text-white">{t("footer.riskWarningAndProductSuitability")}</h6>
                                 <p className="footer-paragraph">
                                     {t("footer.riskWarningAndProductSuitabilityMessage")}
                                 </p>
-                            </div>
+                            </div> */}
                             <div className="col-lg-12 mt-2">
                                 <h6 className="text-white">{t("footer.license")}</h6>
                                 <p className="footer-paragraph">{t("footer.licenseMessage")}</p>
-                            </div>
-                            <div className="col-lg-12 mt-2">
-                                <h6 className="text-white">{t("footer.reminder")}</h6>
-                                <p className="footer-paragraph">{t("footer.reminderMessage")}</p>
                             </div>
                             <div className="col-lg-12">
                                 <h6 className="text-white">{t("footer.disclaimer")}</h6>
                                 <p className="footer-paragraph">{t("footer.disclaimerMessage")}</p>
                                 <p className="footer-paragraph">
-                                    Telephone calls and online chat conversations may be recorded and monitored. Apple,
-                                    iPad, and iPhone are trademarks of Apple Inc., registered in the U.S. and other
+                                    Apple, iPad, and iPhone are trademarks of Apple Inc., registered in the U.S. and other
                                     countries. App Store is a service mark of Apple Inc. Android is a trademark of
-                                    Google Inc. This website uses cookies to obtain information about your general
-                                    internet usage. Removal of cookies may affect the operation of certain parts of this
+                                    Google Inc. Telephone calls and online chat conversations may be recorded and monitored.
+                                    This website uses cookies to obtain information about your general internet usage. 
+                                    Removal of cookies may affect the operation of certain parts of this
                                     website. Learn about cookies and how to remove them. Portions of this page are
                                     reproduced from work created and shared by Google and used according to terms
                                     described in the Creative Commons 3.0

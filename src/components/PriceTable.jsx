@@ -13,7 +13,7 @@ function priceTable(id, data) {
         return (
             <>
             <li className="price-slide usshares">
-            <ul data-label="TSLA" data-symbol="TSLA.SPOT.USD.CJC" className="currencies LiveInfo-pricing">
+            {/* <ul data-label="TSLA" data-symbol="TSLA.SPOT.USD.CJC" className="currencies LiveInfo-pricing">
                 <li className="LiveInfo-title">TSLA</li>
                 <li data-multiplier="100" className="LiveInfo-spread">
                     {((parseFloat(data.TSLA.Ask) - data.TSLA.Bid) * 100).toFixed(0)}
@@ -27,7 +27,7 @@ function priceTable(id, data) {
                     </div>
                 </li>
                 <li className="LiveInfo-change">{data.TSLA.Last}</li>
-            </ul>
+            </ul> */}
             <ul data-label="AMZN" data-symbol="AMZN.SPOT.USD.CJC" className="currencies LiveInfo-pricing">
                 <li className="LiveInfo-title">AMZN</li>
                 <li data-multiplier="100" className="LiveInfo-spread">
@@ -43,7 +43,7 @@ function priceTable(id, data) {
                 </li>
                 <li className="LiveInfo-change">{data.AMZN.Last}</li>
             </ul>
-            <ul data-label="AAPL" data-symbol="AAPL.SPOT.CJC" className="currencies LiveInfo-pricing">
+            {/* <ul data-label="AAPL" data-symbol="AAPL.SPOT.CJC" className="currencies LiveInfo-pricing">
                 <li className="LiveInfo-title">AAPL</li>
                 <li data-multiplier="1" className="LiveInfo-spread">
                     {((parseFloat(data.AAPL.Ask) - data.AAPL.Bid) * 100).toFixed(0)}
@@ -57,7 +57,7 @@ function priceTable(id, data) {
                     </div>
                 </li>
                 <li className="LiveInfo-change">{data.AAPL.Last}</li>
-            </ul>
+            </ul> */}
             <ul data-label="BA" data-symbol="BA.SPOT.CJC" className="currencies LiveInfo-pricing">
                 <li className="LiveInfo-title">BA</li>
                 <li data-multiplier="1" className="LiveInfo-spread">
@@ -111,7 +111,7 @@ function priceTable(id, data) {
                         </li>
                         <li className="LiveInfo-change">{data.SPX500.Last}</li>
                     </ul>
-                    <ul data-label="US 30" data-symbol="US30.SPOT.USD.CJC" className="currencies LiveInfo-pricing">
+                    {/* <ul data-label="US 30" data-symbol="US30.SPOT.USD.CJC" className="currencies LiveInfo-pricing">
                         <li className="LiveInfo-title">US 30</li>
                         <li data-multiplier="1" className="LiveInfo-spread">
                             {((parseFloat(data.US30.Ask) - data.US30.Bid) * 1).toFixed(0)}
@@ -125,7 +125,7 @@ function priceTable(id, data) {
                             </div>
                         </li>
                         <li className="LiveInfo-change">{data.US30.Last}</li>
-                    </ul>
+                    </ul> */}
                     <ul data-label="A50" data-symbol="A50.SPOT.USD.CJC" className="currencies LiveInfo-pricing">
                         <li className="LiveInfo-title">A50</li>
                         <li data-multiplier="1" className="LiveInfo-spread">

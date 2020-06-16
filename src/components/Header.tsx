@@ -162,16 +162,16 @@ export default function Header() {
                             </div>
                             <div className={collapseStatus} id="navbarSupportedContent">
                                 <ul className="navbar-nav ml-auto">
-                                    <li className="nav-item">
-                                        <Link to="/about-us" className="nav-link">
+                                    {/* <li className="nav-item">
+                                        <Link to="/App/AboutUs" className="nav-link">
                                             {t("header.aboutUs")}
                                         </Link>
-                                    </li>
-                                    <li className="nav-item">
+                                    </li> */}
+                                    {/* <li className="nav-item">
                                         <Link to="/why-choose-cjc" className="nav-link">
                                             {t("header.why")}
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li className="nav-item dropdown">
                                         <span
                                             className="nav-link dropdown-toggle"
@@ -194,11 +194,11 @@ export default function Header() {
                                             </Link>
                                         </div>
                                     </li>
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link to="/cooperate" className="nav-link">
                                             {t("header.partner")}
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li className="nav-item dropdown">
                                         <span
                                             className="nav-link dropdown-toggle"
@@ -221,11 +221,11 @@ export default function Header() {
                                             </Link>
                                         </div>
                                     </li>
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link to="/help/qna" className="nav-link">
                                             {t("header.help")}
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li className="nav-item dropdown nav-mobile-i18n">
                                         <span
                                             className="nav-link dropdown-toggle"
