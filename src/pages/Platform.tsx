@@ -395,25 +395,25 @@ function platformContent(id: number, t: any, currentLang: string) {
     }
 }
 
-function sideBar(id: number, t: any) {
-    const fundsDict = [
-        {id: 0, router: "iphone", content: t("platform.iphoneTitle"), style: "border-bottom"},
-        {id: 1, router: "ipad", content: t("platform.ipadTitle"), style: "border-bottom"},
-        {id: 2, router: "android", content: t("platform.androidTitle"), style: "border-bottom"},
-        {id: 3, router: "windows", content: t("platform.windowsTitle"), style: "border-bottom"},
-    ]
-    if (id === 0 || id === 1 || id === 2 || id === 3) {
-        fundsDict[id].style = "active border-bottom"
-    }
-    const listSidebar = fundsDict.map(fundsDictItem => (
-        <li key={fundsDictItem.id} className={fundsDictItem.style}>
-            <Link to={`/platform/${fundsDictItem.router}`} className="d-block font-primary text-dark p-4">
-                {fundsDictItem.content}
-            </Link>
-        </li>
-    ))
-    return <>{listSidebar}</>
-}
+// function sideBar(id: number, t: any) {
+//     const fundsDict = [
+//         {id: 0, router: "iphone", content: t("platform.iphoneTitle"), style: "border-bottom"},
+//         {id: 1, router: "ipad", content: t("platform.ipadTitle"), style: "border-bottom"},
+//         {id: 2, router: "android", content: t("platform.androidTitle"), style: "border-bottom"},
+//         {id: 3, router: "windows", content: t("platform.windowsTitle"), style: "border-bottom"},
+//     ]
+//     if (id === 0 || id === 1 || id === 2 || id === 3) {
+//         fundsDict[id].style = "active border-bottom"
+//     }
+//     const listSidebar = fundsDict.map(fundsDictItem => (
+//         <li key={fundsDictItem.id} className={fundsDictItem.style}>
+//             <Link to={`/platform/${fundsDictItem.router}`} className="d-block font-primary text-dark p-4">
+//                 {fundsDictItem.content}
+//             </Link>
+//         </li>
+//     ))
+//     return <>{listSidebar}</>
+// }
 
 export default function Platform({highlightString}: Props) {
     const {t, i18n} = useTranslation("")
@@ -424,12 +424,7 @@ export default function Platform({highlightString}: Props) {
                 <section className="section">
                     <div className="container">
                         <div className="row">
-                            <aside className="col-lg-4 order-lg-1 order-2">
-                                <ul className="service-menu pl-0 border mb-50">
-                                    {sideBar(highlightString, t)}
-                                </ul>
-                            </aside>
-                            <div className="col-lg-8 order-lg-2 order-1">
+                            <div className="col-lg-12 order-lg-2 order-1">
                                 {platformContent(highlightString, t, currentLang)}
                             </div>
                         </div>

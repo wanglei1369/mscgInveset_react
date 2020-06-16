@@ -9,10 +9,15 @@ export default function AboutUs() {
     const {t} = useTranslation("")
     return (
         <>
-            <LayoutSecondary bannerImg={bannerImg} pageTitle={t("aboutUs.brandHistory")}>
+            {/* <LayoutSecondary bannerImg={bannerImg} pageTitle={t("aboutUs.brandHistory")}> */}
                 <section className="mission section">
                     <div className="container">
                         <div className="row justify-content-center mb-50">
+                            <div className="col-lg-10 text-center">
+                            <h3 className="section-title-sm mb-0">{t("aboutUs.brandHistory")}</h3>
+                            <br/>
+                            <br/>
+                            </div>
                             <div className="col-lg-10 text-left">
                                 {t("aboutUs.brandHistoryStory")
                                     .split("\n")
@@ -27,7 +32,7 @@ export default function AboutUs() {
                         </div>
                     </div>
                 </section>
-            </LayoutSecondary>
+            {/* </LayoutSecondary> */}
         </>
     )
 }

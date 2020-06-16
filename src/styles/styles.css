@@ -438,7 +438,16 @@ button {
     font-weight: 600;
     color: #666;
 }
+.section-title-con {
+    margin-bottom: 55px;
+}
 
+.section-title-con-sm {
+    margin-bottom: 10px;
+    font-family: "Lato", "Noto Sans SC", sans-serif;
+    font-weight: 600;
+    color: #fff;
+}
 .section-lg {
     padding: 300px 0;
 }
@@ -2572,6 +2581,7 @@ ul.tag-list li a:hover {
     z-index: 1;
     background-color: transparent;
     border-radius: 0;
+    border-collapse: separate;
 }
 
 .contact .contact-form {
@@ -2579,12 +2589,14 @@ ul.tag-list li a:hover {
     border-radius: 0;
     border-top-style: solid;
     border-color: #f4b01b;
+    border-collapse: separate;
 }
 
 .contact .contact-form .form-control {
     border-radius: 0;
     background: #e6e6e6;
     color: #fff;
+    border-collapse: separate;
 }
 
 .contact-blue {
@@ -2593,6 +2605,7 @@ ul.tag-list li a:hover {
     z-index: 1;
     background-color: transparent;
     border-radius: 0;
+    border-collapse: separate;
 }
 
 .contact-blue .contact-form {
@@ -2600,12 +2613,14 @@ ul.tag-list li a:hover {
     border-radius: 0;
     border-top-style: solid;
     border-color: #f4b01b;
+    border-collapse: separate;
 }
 
 .contact-blue .contact-form .form-control {
     border-radius: 0;
     background: #f4b01b;
     color: #ffffff;
+    border-collapse: separate;
 }
 
 .contact-blue .contact-form .form-control::placeholder {

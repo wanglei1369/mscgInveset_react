@@ -15,8 +15,8 @@ interface Props {
     highlightString: number
 }
 
-function helpContent(id: number, t: any) {
-    if (id === 0) {
+function helpContent(t: any) {
+   
         return (
             <>
                 <div className="support wrapper">
@@ -330,114 +330,37 @@ function helpContent(id: number, t: any) {
         )
     }
 
-    if (id === 1) {
-        return (
-            <>
-                <div className="container">
-                    <div className="row">
-                        <div className="col-lg-6 mb-30">
-                            <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
-                                <a
-                                    style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Product Disclosure Statement.pdf">
-                                    <div className="pdf-download">
-                                        <img
-                                            src={pdfSVG}
-                                            className="img-fluid w-25"
-                                            alt="CJC Product Disclosure Statement"
-                                        />
-                                        <h5 className="pl-3">Product Disclosure Statement</h5>
-                                    </div>
-                                </a>
-                            </li>
-                        </div>
-                        <div className="col-lg-6 mb-30">
-                            <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
-                                <a
-                                    style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Contract Specifications.pdf">
-                                    <div className="pdf-download">
-                                        <img
-                                            src={pdfSVG}
-                                            className="img-fluid w-25"
-                                            alt="CJC Contract Specifications"
-                                        />
-                                        <h5 className="pl-3">Contract Specifications</h5>
-                                    </div>
-                                </a>
-                            </li>
-                        </div>
-                        <div className="col-lg-6 mb-30">
-                            <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
-                                <a
-                                    style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Client Services Agreement - 22032019.pdf">
-                                    <div className="pdf-download">
-                                        <img
-                                            src={pdfSVG}
-                                            className="img-fluid w-25"
-                                            alt="CJC Client Services Agreement"
-                                        />
-                                        <h5 className="pl-3">Client Services Agreement</h5>
-                                    </div>
-                                </a>
-                            </li>
-                        </div>
-                        <div className="col-lg-6 mb-30">
-                            <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
-                                <a
-                                    style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Fees Schedule.pdf">
-                                    <div className="pdf-download">
-                                        <img src={pdfSVG} className="img-fluid w-25" alt="CJC Fees Schedule" />
-                                        <h5 className="pl-3">Fees Schedule</h5>
-                                    </div>
-                                </a>
-                            </li>
-                        </div>
-                        <div className="col-lg-6 mb-30">
-                            <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
-                                <a
-                                    style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Privacy Policy.pdf">
-                                    <div className="pdf-download">
-                                        <img src={pdfSVG} className="img-fluid w-25" alt="CJC Privacy Policy" />
-                                        <h5 className="pl-3">Privacy Policy</h5>
-                                    </div>
-                                </a>
-                            </li>
-                        </div>
-                    </div>
-                </div>
-            </>
-        )
-    }
-}
+    
 
-function sideBar(id: number, t: any) {
-    const helpDict = [
-        {id: 0, router: "qna", content: t("qna.qnaTitle"), style: "border-bottom"},
-        {id: 1, router: "documents", content: t("help.documentTitle"), style: "border-bottom"},
-    ]
-    if (id === 0 || id === 1) {
-        helpDict[id].style = "active border-bottom"
-    }
-    const listSidebar = helpDict.map(helpDictItem => (
-        <li key={helpDictItem.id} className={helpDictItem.style}>
-            <Link to={`/help/${helpDictItem.router}`} className="d-block font-primary text-dark p-4">
-                {helpDictItem.content}
-            </Link>
-        </li>
-    ))
-    return <>{listSidebar}</>
-}
+// function sideBar(id: number, t: any) {
+//     const helpDict = [
+//         {id: 0, router: "qna", content: t("qna.qnaTitle"), style: "border-bottom"},
+//         {id: 1, router: "documents", content: t("help.documentTitle"), style: "border-bottom"},
+//     ]
+//     if (id === 0 || id === 1) {
+//         helpDict[id].style = "active border-bottom"
+//     }
+//     const listSidebar = helpDict.map(helpDictItem => (
+//         <li key={helpDictItem.id} className={helpDictItem.style}>
+//             <Link to={`/help/${helpDictItem.router}`} className="d-block font-primary text-dark p-4">
+//                 {helpDictItem.content}
+//             </Link>
+//         </li>
+//     ))
+//     return <>{listSidebar}</>
+// }
 
-export default function Help({highlightString}: Props) {
+export default function Help() {
     const {t, i18n} = useTranslation("")
     return (
         <>
             {/* <LayoutSecondary bannerImg={bannerImg} pageTitle={t("help.helpTitle")}> */}
                 <section className="section">
+                <div className="col-lg-12 text-center">
+                            <h3 className="section-title-sm mb-0">{t("qna.qnaTitle")}</h3>
+                            <br/>
+                            <br/>
+                            </div>
                     <div className="container">
                         <div className="row">
                             {/* <aside className="col-lg-4">
@@ -445,7 +368,7 @@ export default function Help({highlightString}: Props) {
                                     {sideBar(highlightString, t)}
                                 </ul>
                             </aside> */}
-                            <div className="col-lg-8">{helpContent(highlightString, t)}</div>
+                            <div className="col-lg-12">{helpContent(t)}</div>
                         </div>
                     </div>
                 </section>
