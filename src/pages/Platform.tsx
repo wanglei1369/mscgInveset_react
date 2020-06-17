@@ -302,7 +302,7 @@ const android = (t: any, currentLang: string) => {
                     </div>
                     <div className="col-lg-3 text-center">
                         <QRCode
-                            value="https://www.mscgroupsecurities.com/media/installer/metatrader4.apk"
+                            value="https://www.mscgroupinvestment.com/media/installer/metatrader4.apk"
                             renderAs="svg"
                             fgColor="#253746"
                         />
