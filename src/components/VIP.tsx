@@ -14,7 +14,7 @@ export default function VIP() {
                 <div className="container justify-content-center">
                     <div className="row mb-5 justify-content-center">
                         <div className="col-lg-8 col-md-12">
-                            <h6 className="mb-5 mt-5" style={{color: "#f4b01b"}}>
+                            <h6 className="mb-5 mt-5" style={{color: "#7baab6"}}>
                                 感谢您对MSCGroup
                                 的认可，请您仔细阅读此活动须知并回复邮件确认参与此次活动。祝您交易愉快！
                             </h6>
