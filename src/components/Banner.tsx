@@ -70,24 +70,24 @@ function cnBanner(t: any) {
                     <div className="container" style={carouselTextStyle}>
                         <div className="row banner">
                             <div className="col-lg-12">
-                                <h2 className="text-white text-left" style={{fontWeight: "bold"}}>
+                                <h2 className="text-white text-center" style={{fontWeight: "bold"}}>
                                     {t("hero.heroSubtitle1")}
                                     <br />
                                     {t("hero.heroSubtitle1PreCN")}
                                     {t("hero.heroSubtitle1CN")}
                                     {t("hero.heroSubtitle2")}
                                 </h2>
-                                <h5 className="section-title text-white banner-title text-left">
+                                <h5 className="section-title text-white banner-title text-center">
                                     {t("hero.heroMessage")}
                                 </h5>
                             </div>
                             <div className="col-lg-6 col-md-12 text-left">
-                                <Link to="/external-sign-up" className="btn-solid">
+                                {/* <Link to="/external-sign-up" className="btn-solid">
                                     {t("hero.createLiveAccount")}
                                 </Link>
                                 <Link to="/cooperate" className="btn-grey-inverse">
                                     {t("hero.createDemoAccount")}
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
                     </div>
