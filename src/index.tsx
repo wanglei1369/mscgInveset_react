@@ -115,33 +115,19 @@ ReactDOM.render(
                 <Route exact path="/help/documents" render={props => <HelpPage {...props} highlightString={1} />} />
                 <Route path="/cooperate" exact component={Cooperate} />
                 <Route
-                    path="/login/broker"
-                    component={() => {
-                        window.location.href = "https://broker.cjcmarkets.com/"
-                        return null
-                    }}
-                />
-                <Route
                     path="/login/trader"
                     component={() => {
-                        window.location.href = "https://trader.mscgroupsecurities.com/login"
+                        window.location.href = "https://trader.mscgroupinvestment.com/login"
                         return null
                     }}
                 />
                 <Route
                     path="/external-sign-up"
                     component={() => {
-                        window.location.href = "https://trader.mscgroupsecurities.com/register/"
+                        window.location.href = "https://trader.mscgroupinvestment.com/register/"
                         return null
                     }}
                 />
-                {/* <Route
-                    path="/external-mock-up"
-                    component={() => {
-                        window.location.href = "https://trader.cjcmarkets.com/registerMock"
-                        return null
-                    }}
-                /> */}
                 <Route
                     path="/to-fma"
                     component={() => {
