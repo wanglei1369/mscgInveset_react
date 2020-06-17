@@ -1,12 +1,12 @@
 table.minimalistBlack {
-    border: 2px solid #f4b01b;
+    border: 2px solid #7baab6;
     background-color: #FFFFFF;
     width: 100%;
     text-align: left;
     border-collapse: collapse;
   }
   table.minimalistBlack td, table.minimalistBlack th {
-    border: 1px solid #f4b01b;
+    border: 1px solid #7baab6;
     padding: 5px 4px;
   }
   table.minimalistBlack tbody td {
@@ -14,12 +14,12 @@ table.minimalistBlack {
   }
   table.minimalistBlack thead {
     background: #ffffff;
-    border-bottom: 1px solid #f4b01b;
+    border-bottom: 1px solid #7baab6;
   }
   table.minimalistBlack thead th {
     font-size: 15px;
     font-weight: normal;
-    color: #f4b01b;
+    color: #7baab6;
     text-align: left;
   }
   table.minimalistBlack tfoot td {

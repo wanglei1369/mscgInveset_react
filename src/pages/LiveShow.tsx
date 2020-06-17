@@ -121,7 +121,7 @@ export default function LiveShow() {
                 <div className="basic-4" id="event">
                     <div className="container justify-content-center">
                         <div className="row mb-5 justify-content-center">
-                            <h6 className="mb-5 mt-5" style={{color: "#f4b01b"}}>
+                            <h6 className="mb-5 mt-5" style={{color: "#7baab6"}}>
                                 感谢您对MSCGroup 的认可，请您仔细阅读此直播概要。祝您愉快！
                             </h6>
                             <div className="col-lg-8 col-md-12">

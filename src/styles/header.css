@@ -112,7 +112,7 @@
 }
 
 .navigation .navbar .nav-item .nav-link:hover {
-    color: #f4b01b;
+    color: #7baab6;
 }
 
 .navigation .navbar .nav-item .btn {
@@ -131,7 +131,7 @@
 } */
 
 .navigation .navbar .nav-item.active .nav-link {
-    color: #f4b01b;
+    color: #7baab6;
 }
 
 .navigation .navbar .dropdown:hover .dropdown-menu {
@@ -188,7 +188,7 @@
 }
 
 .navigation .navbar .dropdown-item:hover {
-    color: #f4b01b;
+    color: #7baab6;
     text-decoration: underline;
     background: transparent;
 }
