@@ -133,7 +133,7 @@ export default function Footer() {
                                 </p>
                             </div>
                             <div className="col-lg-6 col-md-7">
-                                <ul className="list-inline text-center text-md-right">
+                                {/* <ul className="list-inline text-center text-md-right">
                                     <li className="list-inline-item mx-lg-3 my-lg-0 mx-2 my-2">
                                         <Link to="/help/documents" className="font-secondary text-white">
                                             {t("footer.documents")}
@@ -146,7 +146,7 @@ export default function Footer() {
                                             {t("contactForm.privacyPolicy")}
                                         </a>
                                     </li>
-                                </ul>
+                                </ul> */}
                             </div>
                         </div>
                     </div>
