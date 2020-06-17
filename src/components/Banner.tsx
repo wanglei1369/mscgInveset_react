@@ -16,8 +16,8 @@ const bannerOneStyle: CSSProperties = {
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-    // minHeight: "100vh",
-    // maxHeight: "100vh",
+    minHeight: "65vh",
+    maxHeight: "65vh",
 }
 
 const liveshowBannerImgStyle: CSSProperties = {
