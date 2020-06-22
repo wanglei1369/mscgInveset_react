@@ -339,7 +339,7 @@ function helpContent(id: number, t: any) {
                             <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
                                 <a
                                     style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Product Disclosure Statement.pdf">
+                                    href="/media/documents/MSC - Product Disclosure Statement.pdf">
                                     <div className="pdf-download">
                                         <img
                                             src={pdfSVG}
@@ -355,7 +355,7 @@ function helpContent(id: number, t: any) {
                             <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
                                 <a
                                     style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Contract Specifications.pdf">
+                                    href="/media/documents/MSC - Contract Specifications.pdf">
                                     <div className="pdf-download">
                                         <img
                                             src={pdfSVG}
@@ -371,7 +371,7 @@ function helpContent(id: number, t: any) {
                             <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
                                 <a
                                     style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Client Services Agreement - 22032019.pdf">
+                                    href="/media/documents/MSC - Client Services Agreement - 22032019.pdf">
                                     <div className="pdf-download">
                                         <img
                                             src={pdfSVG}
@@ -387,7 +387,7 @@ function helpContent(id: number, t: any) {
                             <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
                                 <a
                                     style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Fees Schedule.pdf">
+                                    href="/media/documents/MSC - Fees Schedule.pdf">
                                     <div className="pdf-download">
                                         <img src={pdfSVG} className="img-fluid w-25" alt="CJC Fees Schedule" />
                                         <h5 className="pl-3">Fees Schedule</h5>
@@ -399,7 +399,7 @@ function helpContent(id: number, t: any) {
                             <li className="list-inline-item mx-lg-4 my-lg-0 mx-2 my-2">
                                 <a
                                     style={{color: "#000000"}}
-                                    href="/media/documents/MSC Group - Privacy Policy.pdf">
+                                    href="/media/documents/MSC - Privacy Policy.pdf">
                                     <div className="pdf-download">
                                         <img src={pdfSVG} className="img-fluid w-25" alt="CJC Privacy Policy" />
                                         <h5 className="pl-3">Privacy Policy</h5>

@@ -2,11 +2,11 @@
 
 export default {
     pagetitle: "Trang chủ",
-    heading: "MSCGroup",
+    heading: "MSC",
     description: "Ngôn ngữ sẵn có Tiếng Anh hoặc Tiếng Trung",
     whyCJC: {
-        whyCjcTitle: "TẠI SAO NÊN CHỌN MSCGroup",
-        whyCjcMessage: "Khách hàng chọn MSCGroup vì chúng tôi đem đến:",
+        whyCjcTitle: "TẠI SAO NÊN CHỌN MSC",
+        whyCjcMessage: "Khách hàng chọn MSC vì chúng tôi đem đến:",
 
         advantage: {
             advantageTitle: "Lợi thế cạnh tranh",
@@ -19,20 +19,20 @@ export default {
             superiorExecutionMessage:
                 "Chúng tôi cập nhật nền tảng giao dịch với công nghệ hiện đại và phổ biến nhất cho người dùng.  Nền tảng này cho phép nhà đầu tư tận dụng đa dạng nhiều hình thức giao dịch khác nhau, nhằm hỗ trợ tối đa trong việc kiểm soát. Với CJC, chúng tôi luôn không ngừng nỗ lực nâng cao trải nghiệm giao dịch của khách hàng.",
             latestTechnologyPlatformMessage:
-                "Nền tảng sử dụng tại MSCGroup tập hợp nhiều tính năng và giao diện hỗ trợ. Khách hàng sử dụng máy tính bàn (Desktop) có thể tải về hay truy cập trực tiếp trên trình duyệt. Nền tảng được hỗ trợ bởi cả hai hệ điều hành Microsoft và Apple, cũng như các thiết bị điện tử thông minh trên nền iPhone và Android. Chúng tôi không ngừng nâng cấp nền tảng để đem lại trải nghiệm giao dịch tốt nhất cho khách hàng.",
+                "Nền tảng sử dụng tại MSC tập hợp nhiều tính năng và giao diện hỗ trợ. Khách hàng sử dụng máy tính bàn (Desktop) có thể tải về hay truy cập trực tiếp trên trình duyệt. Nền tảng được hỗ trợ bởi cả hai hệ điều hành Microsoft và Apple, cũng như các thiết bị điện tử thông minh trên nền iPhone và Android. Chúng tôi không ngừng nâng cấp nền tảng để đem lại trải nghiệm giao dịch tốt nhất cho khách hàng.",
             aWideRangeOfProductsMessage:
-                "MSCGroup cung cấp đa dạng các thị trường sản phẩm cho khách hàng. Tính đến hiện tại, ngoại hối, kim loại, chỉ số và các Hợp Đồng Chênh Lệch CFDs là các sản phẩm đầu tư phổ biến nhất tại MSCGroup. Chúng tôi cung cấp lên đến hơn 100 cặp tiền tệ khác nhau cùng nhiều chỉ số chứng khoán phổ biến và hợp đồng chênh lệch giá dầu thô.",
+                "MSC cung cấp đa dạng các thị trường sản phẩm cho khách hàng. Tính đến hiện tại, ngoại hối, kim loại, chỉ số và các Hợp Đồng Chênh Lệch CFDs là các sản phẩm đầu tư phổ biến nhất tại MSC. Chúng tôi cung cấp lên đến hơn 100 cặp tiền tệ khác nhau cùng nhiều chỉ số chứng khoán phổ biến và hợp đồng chênh lệch giá dầu thô.",
             NDDTradingMessage:
                 "Với hình thức NDD không thông qua bàn giao dịch cố định, khách hàng sẽ nhận mức báo giá mới nhất một cách nhanh chóng mà không bị ảnh hưởng từ bên trung gian nào. Điều này đảm bảo rằng khách hàng luôn cập nhật mức giá mới nhất và nhanh nhất có thể.",
             competitiveSpreadsAndLowTransactionCostsMessage:
-                "Tại MSCGroup, chúng tôi luôn cố gắng đem lại mức chênh lệch cạnh tranh và phí giao dịch thấp nhất, nhằm đảm bảo cho khách hàng chúng tôi hưởng nhiều quyền lợi hơn.",
+                "Tại MSC, chúng tôi luôn cố gắng đem lại mức chênh lệch cạnh tranh và phí giao dịch thấp nhất, nhằm đảm bảo cho khách hàng chúng tôi hưởng nhiều quyền lợi hơn.",
             eminentCustomerServiceMessage:
-                "Đội ngũ của MSCGroup giàu kinh nghiệm và luôn trong tư thế sẵn sàng để hỗ trợ khách hàng hết sức có thể.",
+                "Đội ngũ của MSC giàu kinh nghiệm và luôn trong tư thế sẵn sàng để hỗ trợ khách hàng hết sức có thể.",
         },
     },
     services: {
         licensedForexDealer: "Một nhà môi giới với tính toàn vẹn",
-        licensedForexDealer1PreBlue: "MSCGroup tuân thủ nghiêm ngặt với",
+        licensedForexDealer1PreBlue: "MSC tuân thủ nghiêm ngặt với",
         licensedForexDealer1Blue: "tiêu chuẩn và quy định Chống rửa tiền - AML",
         licensedForexDealer1PostBlue:
             ", và mỗi giao dịch đều được xác minh khắt khe để tránh những hành động ảnh hưởng không tốt đến quyền lợi khách hàng.",
@@ -44,14 +44,14 @@ export default {
         licensedForexDealer3PreBlue: "Một",
         licensedForexDealer3Blue: "nền tảng giao dịch tiện lợi và an toàn",
         licensedForexDealer3PostBlue: "với dịch vụ xuất sắc và đa dạng sản phẩm đáp ứng nhu cầu khách hàng.",
-        globalizationStrategy: "Chiến Lược Phát Triển Toàn Cầu Của MSCGroup",
+        globalizationStrategy: "Chiến Lược Phát Triển Toàn Cầu Của MSC",
         globalizationStrategyTitle: "CJC đặt tầm nhìn ra toàn thế giới",
         globalizationStrategyMessage1:
-            "Chúng tôi quan hệ hợp tác với đội ngũ từ khắp các quốc gia và vùng lãnh thổ, với mong muốn đem MSCGroup trở thành một công ty quốc tế.",
+            "Chúng tôi quan hệ hợp tác với đội ngũ từ khắp các quốc gia và vùng lãnh thổ, với mong muốn đem MSC trở thành một công ty quốc tế.",
         globalizationStrategyMessage2:
-            "Hãy tham gia cùng chúng tôi xây dựng một chiến lược phát triển toàn cầu và đem MSCGroup bước ra toàn thế giới.",
+            "Hãy tham gia cùng chúng tôi xây dựng một chiến lược phát triển toàn cầu và đem MSC bước ra toàn thế giới.",
         tradingPlatformTitle: "Nền Tảng Giao Dịch Của Bạn",
-        tradingPlatformMessage1: "Với MetaTrader 4 và MSCGroup, giao dịch trở nên vô cùng dễ dàng và thuận lợi.",
+        tradingPlatformMessage1: "Với MetaTrader 4 và MSC, giao dịch trở nên vô cùng dễ dàng và thuận lợi.",
         tradingPlatformMessage2: "Bất kể bạn kinh nghiệm giao dịch ra sao",
         tradingPlatformMessage3: "mới bắt đầu",
         tradingPlatformMessage4: "hay",
@@ -61,14 +61,14 @@ export default {
         aWideRangeOfProducts: "Đa Dạng Các Sản Phẩm Đầu Tư",
     },
     hero: {
-        heroTitle: "MSCGroup",
+        heroTitle: "MSC",
         heroSubtitle1PreCN: "",
         heroSubtitle1CN: "Bất kể",
         heroSubtitle1PostCN: "",
         heroSubtitle1: "Giao dịch Thông minh,",
         heroSubtitle2: "Thời gian",
         heroMessage:
-            "Khớp lệnh hoàn hảo, đầu tư an toàn và nền tảng thân thiện. MSCGroup đem lại nhà đầu tư một nền tảng giao dịch tin cậy cùng rất nhiều tính năng hữu dụng.",
+            "Khớp lệnh hoàn hảo, đầu tư an toàn và nền tảng thân thiện. MSC đem lại nhà đầu tư một nền tảng giao dịch tin cậy cùng rất nhiều tính năng hữu dụng.",
         createLiveAccount: "Tạo Tài khoản Giao dịch",
         createDemoAccount: "Bắt đầu Tài khoản Dùng thử (Demo)",
         spread: "CHÊNH LỆCH THẤP TỪ 0,1",
@@ -86,15 +86,15 @@ export default {
     productsAndServices: {
         productsAndServicesTitle: "Sản phẩm và Dịch vụ",
         pageTitle: "Sản phẩm và Dịch vụ",
-        pageDesc: "MSCGroup cung cấp đa dạng các sản phẩm và dịch vụ",
+        pageDesc: "MSC cung cấp đa dạng các sản phẩm và dịch vụ",
         cfd: "Hợp đồng Chênh lệch (CFDs)",
-        cfdMessage1: "MSCGroup cung cấp đa dạng các loại Hợp đồng chênh lệch (CFDs). Bao gồm",
+        cfdMessage1: "MSC cung cấp đa dạng các loại Hợp đồng chênh lệch (CFDs). Bao gồm",
         cfdMessage2: " Ngoại hối, Kim loại quý, Chỉ số chứng khoán và Dầu thô.",
         cfdMessage3:
-            "Bên cạnh mức giá cạnh tranh tại MSCGroup, các nhà giao dịch còn có thể tận dụng nền tảng tiện lợi và giao dịch an toàn của chúng tôi. Nền tảng cho phép các giao dịch khớp lệnh trực tiếp, đa dạng các thị trường giao dịch và chức năng quản lý rủi ro đáng tin cậy.",
+            "Bên cạnh mức giá cạnh tranh tại MSC, các nhà giao dịch còn có thể tận dụng nền tảng tiện lợi và giao dịch an toàn của chúng tôi. Nền tảng cho phép các giao dịch khớp lệnh trực tiếp, đa dạng các thị trường giao dịch và chức năng quản lý rủi ro đáng tin cậy.",
         introducingBrokers: "Đối tác Giới thiệu (IB)",
         cfdMessage:
-            "MSCGroup cung cấp đa dạng các Hợp đồng chênh lệch (CFDs). Thị trường sản phẩm của chúng tôi gồm ngoại hối, kim loại quý, chỉ số chứng khoán và dầu thô. Bên cạnh mức giá cạnh tranh, các nhà giao dịch còn có thể tận dụng nền tảng một cách dễ dàng và an toàn với MSCGroup. Nền tảng chúng tôi cung cấp giao dịch khớp lệnh nhanh chóng, đa dạng các loại giao dịch và các chức năng quản lý rủi ro.",
+            "MSC cung cấp đa dạng các Hợp đồng chênh lệch (CFDs). Thị trường sản phẩm của chúng tôi gồm ngoại hối, kim loại quý, chỉ số chứng khoán và dầu thô. Bên cạnh mức giá cạnh tranh, các nhà giao dịch còn có thể tận dụng nền tảng một cách dễ dàng và an toàn với MSC. Nền tảng chúng tôi cung cấp giao dịch khớp lệnh nhanh chóng, đa dạng các loại giao dịch và các chức năng quản lý rủi ro.",
         foreignExchange: "Ngoại hối",
         foreignExchangeMessage:
             "Trao đổi ngoại hối là một trong những thị trường sở hữu khối lượng giao dịch lớn nhất trong lĩnh vực tài chính,  hoạt động trên toàn cầu và liên tục trong từng giây. Theo thống kê từ Ngân hàng Thanh toán Quốc tế (BIS) năm 2016, doanh số thị trường toàn cầu khoảng 5.000 tỷ $ mỗi ngày. Chính nhờ sự thanh khoản cao và tính minh bạch của thị trường, đây được xem là công cụ đầu tư phổ biến cho giới tài chính.",
@@ -109,7 +109,7 @@ export default {
             "Dầu thô là sản phẩm hàng hóa được giao dịch năng động nhất trên thế giới. Lượng trữ dầu toàn cầu, tình hình sản xuất dự trữ dầu, và các thông tin thị trường dầu thô khác đều có thể phản ánh xu hướng giá dầu thô. Hợp đồng chênh lệch giá dầu thô rất phổ biến với nhà đầu cơ và những ai muốn tìm hiểu về thị trường này, do nó cho phép nhà đầu tư giao dịch mà không cần phải cân nhắc đến việc vận chuyển hàng hóa. Ngoài ra, nó cho phép nhà đầu tư tận dụng đòn bẩy như một biện pháp giảm chi phí giao dịch.",
 
         introducingBrokersMessage:
-            "Chúng tôi chào đón các mối quan hệ hợp tác với bất cứ ai có nhu cầu giúp đỡ công ty trong việc phát triển mối quan hệ với khách hàng. Liên hệ với chúng tôi ngay hôm nay để trở thành Đối tác Giới thiệu của MSCGroup.",
+            "Chúng tôi chào đón các mối quan hệ hợp tác với bất cứ ai có nhu cầu giúp đỡ công ty trong việc phát triển mối quan hệ với khách hàng. Liên hệ với chúng tôi ngay hôm nay để trở thành Đối tác Giới thiệu của MSC.",
         multiAccountManagerSolution: "Giải pháp Quản lý Đa Tài khoản",
         multiAccountManagerSolutionMessage:
             "CJC cung cấp giải pháp quản lý nhiều tài khoản cùng lúc (Multi Account Manager - MAM) nhằm hỗ trợ và thích nghi với nhu cầu của từng khách hàng. Với MAM, khách hàng hoàn toàn có thể yên tâm và tối ưu hóa việc quản lý giao dịch của mình, còn lại phần trách nhiệm kỹ thuật cứ để chúng tôi lo.",
@@ -122,7 +122,7 @@ export default {
         accessCopytrading: "Đăng nhập cho Copy trade và PAMM",
         hedge: "Giải pháp Bình ổn Tỷ giá ngoại tệ của Doanh nghiệp",
         hedgeMessage:
-            " Các công ty và tổ chức tài chính hoạt động đa quốc gia thường đối mặt với rủi ro do sự bất ổn của tỷ giá hối đoái. MSCGroup cung cấp cho các tổ chức này một giải pháp hợp lý để giảm thiểu rủi ro cho giá trị dòng tiền hiện tại. Giúp đỡ các doanh nghiệp kiểm soát rủi ro từ việc tỷ giá hối đoái dao động, giảm thiểu phí phát sinh và giữ nguyên lợi nhuận.",
+            " Các công ty và tổ chức tài chính hoạt động đa quốc gia thường đối mặt với rủi ro do sự bất ổn của tỷ giá hối đoái. MSC cung cấp cho các tổ chức này một giải pháp hợp lý để giảm thiểu rủi ro cho giá trị dòng tiền hiện tại. Giúp đỡ các doanh nghiệp kiểm soát rủi ro từ việc tỷ giá hối đoái dao động, giảm thiểu phí phát sinh và giữ nguyên lợi nhuận.",
         contactUs: "Liên hệ chúng tô để biết thêm thông tin",
     },
     contactForm: {
@@ -160,37 +160,37 @@ export default {
             "Khi bạn nhận được thông báo yêu cầu mở tài khoản thành công, bạn có thể đăng nhập bằng tài khoản và mật khẩu gửi trong email để tiến hành truy cập. Bạn có thể giao dịch ngay sau khi nạp đủ số tiền vào tài khoản của mình.",
         resetPassword: "Làm thế nào để tạo lại mật khẩu mới?",
         resetPasswordAns:
-            "Mật khẩu của bạn có thể làm mới trên giao diện của hệ thống. Nếu bạn không thể làm mới mật khẩu, bạn có thể gửi email đến đội chăm sóc khách hàng chúng tôi để yêu cầu tạo lại mật khẩu cho email đã đăng kí theo địa chỉ client@mscgroupsecurities.com. Sau khi xác thực thông tin, chúng tôi sẽ tiến hành làm mới mật khẩu và gửi đến email đã đăng kí với chúng tôi khi mở tài khoản. Bạn cũng có thể liên lạc nhân viên hỗ trợ khách hàng trực tuyến hoặc gọi đến đội ngũ chăm sóc khách hàng để được tư vấn thêm.",
+            "Mật khẩu của bạn có thể làm mới trên giao diện của hệ thống. Nếu bạn không thể làm mới mật khẩu, bạn có thể gửi email đến đội chăm sóc khách hàng chúng tôi để yêu cầu tạo lại mật khẩu cho email đã đăng kí theo địa chỉ client@MSCsecurities.com. Sau khi xác thực thông tin, chúng tôi sẽ tiến hành làm mới mật khẩu và gửi đến email đã đăng kí với chúng tôi khi mở tài khoản. Bạn cũng có thể liên lạc nhân viên hỗ trợ khách hàng trực tuyến hoặc gọi đến đội ngũ chăm sóc khách hàng để được tư vấn thêm.",
         deposit: "Làm thế nào để nạp tiền vào tài khoản?",
         depositAns:
             "Bạn có thể nạp tiền trực tiếp vào tài khoản ngân hàng ủy thác của chúng tôi. Chúng tôi chỉ chấp nhận thanh toán chuyển khoản0 và không chấp nhận tiền mặt, cheque hoặc bất cứ hình thức thanh toán nào khác. Thông tin về tài khoản ngân hàng ủy thác sẽ được cung cấp bởi đại diện của CJC. Chúng tôi chỉ chấp nhận tiền từ các tài khoản ngân hàng đứng tên chính xác với tên tài khoản đăng kí với chúng tôi. Giao dịch từ các bên trung gian sẽ phải hoàn trả lại và bạn sẽ là người chịu hoàn toàn chi phí phát sinh.",
         withdraw: "Làm cách nào để tôi rút tiền từ tài khoản?",
         withdrawAns:
-            "Hãy đăng nhập vào trang chủ của MSCGroup. Gửi yêu cầu rút tiền sau khi điền thông tin theo như trong yêu cầu. Hãy đảm bảo rằng tài khoản ngân hàng nhận được tiền gửi về có chính xác tên trong tài khoản với chúng tôi. Bất cứ yêu cầu chuyển tiền cho bên thứ ba sẽ bị từ chối.",
+            "Hãy đăng nhập vào trang chủ của MSC. Gửi yêu cầu rút tiền sau khi điền thông tin theo như trong yêu cầu. Hãy đảm bảo rằng tài khoản ngân hàng nhận được tiền gửi về có chính xác tên trong tài khoản với chúng tôi. Bất cứ yêu cầu chuyển tiền cho bên thứ ba sẽ bị từ chối.",
         fundsSafe: "Liệu nguồn tiền trong tài khoản có an toàn?",
         fundsSafeAns:
             "Tuân thủ theo tất cả quy định, mọi nguồn quỹ của khách hàng đều được tách riêng khỏi nguồn quỹ của công ty và được giữ dưới tài khoản tại các ngân hàng thương mại uy tín. Điều này đảm bảo rằng nguồn quỹ của khách hàng sẽ không bị sử dụng dưới bất cứ hình thức nào.",
-        processingFee: "Liệu  MSCGroup có đánh phí tiền gửi vào hay rút ra không?",
+        processingFee: "Liệu  MSC có đánh phí tiền gửi vào hay rút ra không?",
         processingFeeAns:
             "Chúng tôi không thu phí để gửi tiền vào tài khoản. Dựa trên hình thức rút tiền, một mức phí quy định sẽ được thu. Hình thức thu phí và mức phí có thể tìm thấy ở mục Biểu phí trên trang chủ của chúng tôi.",
         liquidation: "Điều kiện bắt buộc để đóng tài khoản MT4 là gì?",
         liquidationAns:
-            "Bạn hoàn toàn chịu trách nhiệm trong việc kiểm tra tài khoản  và đảm bảo tỷ lệ kí quỹ bắt buộc để giữ tài khoản hoạt động. Tỷ lệ kí quỹ mặc định tối thiểu của MSCGroup là 100%. Điều này có nghĩa là tài khoản của bạn sẽ bị dừng bất cứ khi nào nguồn quỹ trong tài khoản dưới 100% tỉ lệ bắt buộc. Thủ tục đóng tài khoản sẽ như dưới đây: Khoản lỗ ròng chưa giải ngân nhiều nhất sẽ phải đóng trước, tiếp theo là các khoản lỗ nhỏ hơn, và tương tự cho đến khi yêu cầu kí quỹ cần thiết được đáp ứng hoặc lớn hơn. Tùy thuộc vào quy mô vị trí lúc mở tài khoản và các mức lời lãi chưa nhận được, tất cả vị thế đang mở đều có thể bị đóng để đáp ứng yêu cầu ký quỹ cần thiết.",
+            "Bạn hoàn toàn chịu trách nhiệm trong việc kiểm tra tài khoản  và đảm bảo tỷ lệ kí quỹ bắt buộc để giữ tài khoản hoạt động. Tỷ lệ kí quỹ mặc định tối thiểu của MSC là 100%. Điều này có nghĩa là tài khoản của bạn sẽ bị dừng bất cứ khi nào nguồn quỹ trong tài khoản dưới 100% tỉ lệ bắt buộc. Thủ tục đóng tài khoản sẽ như dưới đây: Khoản lỗ ròng chưa giải ngân nhiều nhất sẽ phải đóng trước, tiếp theo là các khoản lỗ nhỏ hơn, và tương tự cho đến khi yêu cầu kí quỹ cần thiết được đáp ứng hoặc lớn hơn. Tùy thuộc vào quy mô vị trí lúc mở tài khoản và các mức lời lãi chưa nhận được, tất cả vị thế đang mở đều có thể bị đóng để đáp ứng yêu cầu ký quỹ cần thiết.",
         blowUp: "Liệu việc giao dịch có phá bỏ vị thế hiện tại?",
         blowUpAns:
-            "Nó có thể có hoặc không, tùy thuộc vào tỷ lệ yêu cầu theo tài khoản và giá trị ròng của tài khoản. MSCGroup sử dụng chênh lệch biến động thay vì chênh lệch cố định. Dựa vài mức biến động của chênh lệch, giá trị ròng sẽ thay đổi. Nếu mức chênh lệch tăng, giá trị ròng sẽ giảm. Do đó, khi thị trường vừa cập nhật dữ liệu hoặc rò rỉ thông tin mới, hay như thời điểm đóng và mở, điều kiện thị trường luôn bao gồm các khoản chênh lệch. Đối với khách hàng muốn khóa giao dịch, hãy giữ đủ số tiền trong tài khoản trước.[Lưu ý] Rủi ro của việc liên kết chuỗi Khi thị trường đang trong trạng thái không có tin quan trọng hoặc khi tin quan trọng vừa được công bố, sự biến động lớn và thời điểm mở cửa thường đi kèm với điều kiện thị trường dao động chênh lệch. Đối với khách hàng khóa giao dịch, hãy giữ đủ nguồn quỹ để tránh bị ép chênh lệch khi giá trị ròng nhỏ hơn 100% tỷ lệ quỹ đã sử dụng do mức chênh lệch. Nếu thị trường nhạy cảm, vị thế sẽ không dừng chỉ ở 100%, mà có thể dưới 100%. Việc dừng cắt lỗ có thể không cân đối. (Do mức chênh lệch mua và bán tăng lên, phí giao dịch của giá mua và bán có thể biến động rất lớn.) Hãy cẩn trọng. MSCGroup không chịu trách nhiệm và đền bù cho bất cứ sự liên đới nào từ các yếu tố thị trường. MSCGroup có quyền thu hồi một phần của vị thế tiêu cực do yếu tố thị trường mặc dù đang được khóa .",
+            "Nó có thể có hoặc không, tùy thuộc vào tỷ lệ yêu cầu theo tài khoản và giá trị ròng của tài khoản. MSC sử dụng chênh lệch biến động thay vì chênh lệch cố định. Dựa vài mức biến động của chênh lệch, giá trị ròng sẽ thay đổi. Nếu mức chênh lệch tăng, giá trị ròng sẽ giảm. Do đó, khi thị trường vừa cập nhật dữ liệu hoặc rò rỉ thông tin mới, hay như thời điểm đóng và mở, điều kiện thị trường luôn bao gồm các khoản chênh lệch. Đối với khách hàng muốn khóa giao dịch, hãy giữ đủ số tiền trong tài khoản trước.[Lưu ý] Rủi ro của việc liên kết chuỗi Khi thị trường đang trong trạng thái không có tin quan trọng hoặc khi tin quan trọng vừa được công bố, sự biến động lớn và thời điểm mở cửa thường đi kèm với điều kiện thị trường dao động chênh lệch. Đối với khách hàng khóa giao dịch, hãy giữ đủ nguồn quỹ để tránh bị ép chênh lệch khi giá trị ròng nhỏ hơn 100% tỷ lệ quỹ đã sử dụng do mức chênh lệch. Nếu thị trường nhạy cảm, vị thế sẽ không dừng chỉ ở 100%, mà có thể dưới 100%. Việc dừng cắt lỗ có thể không cân đối. (Do mức chênh lệch mua và bán tăng lên, phí giao dịch của giá mua và bán có thể biến động rất lớn.) Hãy cẩn trọng. MSC không chịu trách nhiệm và đền bù cho bất cứ sự liên đới nào từ các yếu tố thị trường. MSC có quyền thu hồi một phần của vị thế tiêu cực do yếu tố thị trường mặc dù đang được khóa .",
         blowUpRisk: "Làm cách nào để tránh rủi ro bùng phát gây ra bởi các nhà cái đang khóa?",
         blowUpRiskAns:
             "Trong thị trường hoán đổi tiền tệ, chúng ta không thể chắc chắn về mức giá kế tiếp, cũng như không thể chắc chắn mức chênh lệch sau này, do đó chúng ta không thể dự đoán thời điểm chính xác nên mở khóa tài khoản. Nếu bạn bắt buộc khóa một vị thế, hãy tuân theo biện pháp dưới đây: Khi khóa tài khoản, hãy đảm bảo tỉ lệ kí quỹ của tài khoản được giữ ở mức cao để tránh việc phải đóng tài khoản do nhiều yếu tố như mức chênh lệch. Sau khi khóa vị thế, nếu bạn muốn mở khóa, bạn hãy đóng từng khớp lệnh một. Hãy chú ý giữ đủ tỉ kệ kí quỹ, nếu không việc mở khóa sẽ bị ảnh hưởng. Mặc dù bạn không thể mở vị thế do không sử dụng khoản tiền gửi, nhưng khi bạn đóng bất cứ khớp lệnh nào, việc lưu khớp lệnh đều bị mất, bạn phải sử dụng khoản tiền gửi vào, khi giá trị ròng nhỏ hơn khớp lệnh đang thực hiện. Khi tỷ lệ kí quỹ đạt 100%, vị thế sẽ được mở lại.",
         interest: "Làm thế nào để kiểm tra mức lãi suất giữ qua đêm?",
         interestAns:
             "MT4 mức phí qua đêm dao động khác nhau tùy theo từng cặp giá; cụ thể, bạn có thể them khảo trên danh sách kí hiệu. Các bước như sau: Nhấp chuột phải vào bất cứ cặp tỷ giá nào trên báo giá và chọn 'Các loại giao dịch' trong cửa số hiện ra. Trong danh sách 'Các loại giao dịch', chọn cặp tiền tệ bạn muốn kiểm tra, ví dụ AUD với USD, AUDUSD, tìm và chọn cặp tiền tệ và nhấp vào mục thành phần. Cửa sổ chi tiết hợp đồng sẽ hiện ra. (Nếu bạn muốn thêm các mục còn ẩn vào cửa sổ báo giá  Nhấp vào danh sách kí hiệu và chuột phải, chọn 'tất cả' sẽ hiện tất cả các cặp tiền tệ vào bảng báo giá) Tìm bảng hiển thị mức phí giữa qua đêm (Swap) để mua hoặc bán tương ứng. Số Dương hiển thị mức lãi nhận được, Số Âm hiển thị mức phí phải trả. Lưu ý: Tất cả sản phẩm giao dịch đều có mức lãi qua đêm và ngân hàng định giá có khả năng điều chỉnh dựa theo biến động thị trường.",
-        acceptNonSelf: "MSCGroup có chấp nhận chuyển tiền và rút tiền ủy thác từ người khác không?",
+        acceptNonSelf: "MSC có chấp nhận chuyển tiền và rút tiền ủy thác từ người khác không?",
         acceptNonSelfAns:
-            "MSCGroup chỉ hỗ trợ các giao dịch gửi và rút tiền từ chính tài khoản ngân hàng của khách hàng.  Chúng tôi không chấp nhận bất kì chuyển khoản nào từ thẻ hoặc tài khoản ngân hàng không thuộc sở hữu của khách hàng, cũng như tất cả các khoản chuyển từ bên thứ ba đều sẽ bị trả về. MSCGroup không chấp nhận giao dịch kí gửi bằng tiền mặt hoặc ký séc.",
+            "MSC chỉ hỗ trợ các giao dịch gửi và rút tiền từ chính tài khoản ngân hàng của khách hàng.  Chúng tôi không chấp nhận bất kì chuyển khoản nào từ thẻ hoặc tài khoản ngân hàng không thuộc sở hữu của khách hàng, cũng như tất cả các khoản chuyển từ bên thứ ba đều sẽ bị trả về. MSC không chấp nhận giao dịch kí gửi bằng tiền mặt hoặc ký séc.",
         whatIsMt4: "What’s MT4?",
         whatIsMt4Ans:
-            "MT4 is a widely used trading platform which was developed by MetaQuotes in 2005. MT4 is not only used for foreign exchange trading but also for trading other markets. MSCGroup customers can use MT4 platform to trade foreign currencies, stock, indices, metals and commodities.",
+            "MT4 is a widely used trading platform which was developed by MetaQuotes in 2005. MT4 is not only used for foreign exchange trading but also for trading other markets. MSC customers can use MT4 platform to trade foreign currencies, stock, indices, metals and commodities.",
         whyMt4: "Why MT4?",
         whyMt4Ans:
             "There are several reasons why MT4 is popular:\nMT4 can be used for automatic trading, and you can customise and create your own calculation formula. \nMT4 has the highest level of customization, where a large number of Apps can be used to improve its graphics, user interface and functionalities.\nMT4 is a one-stop shop that can be used to trade with various suppliers.",
@@ -209,7 +209,7 @@ export default {
         accountNotFoundAns:
             "This may be caused by an operating system before windows XP/ 2003 version. Please contact our customer service for more information.",
     },
-    siteName: "MSCGroup",
+    siteName: "MSC",
     header: {
         home: "Trang chủ",
         why: "Tại sao chọn CJC",
@@ -253,13 +253,13 @@ export default {
     platform: {
         platformTitle: "Nền tảng MT4",
         pageTitle: "Nền tảng MT4",
-        pageDesc: "Nền tảng giao dịch MSCGroup là giải pháp hoàn chỉnh đáp ứng nhu cầu giao dịch của bạn.",
+        pageDesc: "Nền tảng giao dịch MSC là giải pháp hoàn chỉnh đáp ứng nhu cầu giao dịch của bạn.",
         ultimateSolution: "Giải Pháp Tối Ưu",
         ultimateSolutionMessage:
-            "Nền tảng giao dịch MSCGroup là giải pháp hoàn chỉnh đáp ứng nhu cầu giao dịch của bạn. Dễ dàng và thuận tiện sử dụng cũng như điều chỉnh, nền tảng với các sản phẩm đa dạng và nhiều lợi ích khác,  sẽ trở thành công cụ đầu tư đắc lực cho bạn.",
+            "Nền tảng giao dịch MSC là giải pháp hoàn chỉnh đáp ứng nhu cầu giao dịch của bạn. Dễ dàng và thuận tiện sử dụng cũng như điều chỉnh, nền tảng với các sản phẩm đa dạng và nhiều lợi ích khác,  sẽ trở thành công cụ đầu tư đắc lực cho bạn.",
         tradeExecution: "Khớp Lệnh Giao Dịch Xuất Sắc",
         tradeExecutionMessage:
-            "Trên nền tảng giao dịch của MSCGroup, bạn luôn nhận được báo giá thực tế của vàng, bạc, ngoại hối, chỉ số chứng khoán và dầu thô tại bất cứ thời điểm nào; nhờ kết nối với các ngân hàng quốc tế lớn, chúng tôi giúp bạn nắm bắt mọi cơ hội đầu tư dù là thoáng qua nhanh.",
+            "Trên nền tảng giao dịch của MSC, bạn luôn nhận được báo giá thực tế của vàng, bạc, ngoại hối, chỉ số chứng khoán và dầu thô tại bất cứ thời điểm nào; nhờ kết nối với các ngân hàng quốc tế lớn, chúng tôi giúp bạn nắm bắt mọi cơ hội đầu tư dù là thoáng qua nhanh.",
         platformMessage:
             "Bất kể kinh nghiệm giao dịch của bạn ra sao, mới bắt đầu hay một chuyên gia, nền tảng của chúng tôi đều có thể đáp ứng tốt nhất nhu cầu của bạn.",
         appleStore: "App Store",
@@ -267,36 +267,36 @@ export default {
         windowsStore: "Windows",
         apkDownload: "hoặc tải file APK tại đây",
         backBtn: "Quay lại",
-        serverTitle: "MSCGroup MT4 Server",
+        serverTitle: "MSC MT4 Server",
         serverAdvantageTitle: "The Equinix NY4 Advantage",
         serverAdvantageMessage:
             "The Equinix NY4 Data Centres in New York are home to 60+ exchanges and trading platforms, 400+ buy and sell side firms, 150+ financial service providers, and 675+ network bandwidth options.\nEquinix data centres are among the most reliable data centres on earth. In these facilities financial market participants can interact in a low latency environment to ensure the fast transfer of data, supporting fast execution speeds for the end user (subject to the speed of customers’ internet connections in the places they are located).",
-        iphoneTitle: "MSCGroup For iPhone",
+        iphoneTitle: "MSC For iPhone",
         iphoneMessage: "",
         iphoneQuoteTitle: "Live Quotes in Your Hand",
         iphoneQuoteMessage:
-            "The MSCGroupApp for iPhone® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSCApp for iPhone® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         iphoneChartingTitle: "Advanced Charting",
         iphoneChartingMessage:
-            "With easy swipe access to historical data and landscape colour charting the MSCGroupApp for iPhone® allows Forex analysis on the go.",
-        androidTitle: "MSCGroup For Android",
+            "With easy swipe access to historical data and landscape colour charting the MSCApp for iPhone® allows Forex analysis on the go.",
+        androidTitle: "MSC For Android",
         androidMessage:
-            "The MetaTrader 4 App for Android® gives you MSCGroup’ advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Android-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you need to trade anywhere, any time.",
+            "The MetaTrader 4 App for Android® gives you MSC’ advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Android-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you need to trade anywhere, any time.",
         androidQuoteTitle: "Live Quotes in Your Hand",
         androidQuoteMessage:
-            "The MSCGroup App for Android® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSC App for Android® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         androidChartingTitle: "Full Trading Capabilities",
         androidChartingMessage:
-            "With easy access to historical data, landscape colour charting and the latest Forex news provided by Dow Jones the MSCGroup App for Android® allows Forex analysis on the go.",
-        ipadTitle: "MSCGroup For iPad",
+            "With easy access to historical data, landscape colour charting and the latest Forex news provided by Dow Jones the MSC App for Android® allows Forex analysis on the go.",
+        ipadTitle: "MSC For iPad",
         ipadMessage:
-            "The MSCGroup Tablet Trading App gives you MSCGroup's advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Tablet-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you may need to trade anywhere, any time.",
+            "The MSC Tablet Trading App gives you MSC's advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Tablet-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you may need to trade anywhere, any time.",
         ipadQuoteTitle: "Live Quotes in Your Hand",
         ipadQuoteMessage:
-            "The MSCGroup App for iPad® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSC App for iPad® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         ipadChartingTitle: "Full Trading Capabilities",
         ipadChartingMessage:
-            "With easy swipe access to historical data, landscape colour charting, the MSCGroup Tablet App allows Forex analysis on the go.",
+            "With easy swipe access to historical data, landscape colour charting, the MSC Tablet App allows Forex analysis on the go.",
     },
     map: {
         eastAsia: "Đông Á",
@@ -317,7 +317,7 @@ export default {
         checkLicence: "Kiểm tra Giấy phép của Chúng tôi trên Website chính thức của FMA",
         brandHistory: " Câu chuyện của chúng tôi",
         brandHistoryStory:
-            "MSCGroup là một tổ chức tài chính hàng đầu toàn cầu cung cấp cho khách hàng cơ hội giao dịch trên thị trường tài chính thông qua hợp đồng các sản phẩm khác nhau (CFD). Mục tiêu của chúng tôi là không ngừng tìm hiểu và khám phá những đỉnh cao mới trong công nghệ giao dịch để cung cấp trải nghiệm giao dịch vượt trội và ưu việt cho khách hàng của MSCGroup. \nVới dịch vụ chăm sóc khách hàng tận tình, bảo mật tài chính nghiêm ngặt và kinh nghiệm sâu rộng, CJC đã được cấp Giấy phép phát hành phái sinh do Cơ quan thị trường tài chính cấp, chúng tôi cũng nhận được kiểm toán tài chính và thẩm định thường xuyên của các cơ quan bên thứ ba độc lập. Số đăng ký FSPR của chúng tôi là 569807. \nMSCGroup rất coi trọng sự phát triển toàn cầu và đã tích cực lên kế hoạch cho chiến lược toàn cầu hóa. MSCGroup liên tục tập trung vào tối ưu hóa sản phẩm và cải thiện chất lượng dịch vụ, hiện đã hợp tác thành công với các đội ngũ nhân lực tài năng giàu kinh nghiệm trên khắp thế giới. MSCGroup đã thành lập văn phòng tại Úc, Canada, Trung Quốc, Đài Loan, Nhật Bản, Thái Lan, Việt Nam, Malaysia, Philippines và các nước Đông Nam Á khác. \nHãy cùng hợp tác phát triển theo chiến lược toàn cầu hóa của MSCGroup và xây dựng một nền tảng giao dịch một cửa chuyên nghiệp đẳng cấp thế giới.",
+            "MSC là một tổ chức tài chính hàng đầu toàn cầu cung cấp cho khách hàng cơ hội giao dịch trên thị trường tài chính thông qua hợp đồng các sản phẩm khác nhau (CFD). Mục tiêu của chúng tôi là không ngừng tìm hiểu và khám phá những đỉnh cao mới trong công nghệ giao dịch để cung cấp trải nghiệm giao dịch vượt trội và ưu việt cho khách hàng của MSC. \nVới dịch vụ chăm sóc khách hàng tận tình, bảo mật tài chính nghiêm ngặt và kinh nghiệm sâu rộng, CJC đã được cấp Giấy phép phát hành phái sinh do Cơ quan thị trường tài chính cấp, chúng tôi cũng nhận được kiểm toán tài chính và thẩm định thường xuyên của các cơ quan bên thứ ba độc lập. Số đăng ký FSPR của chúng tôi là 569807. \nMSC rất coi trọng sự phát triển toàn cầu và đã tích cực lên kế hoạch cho chiến lược toàn cầu hóa. MSC liên tục tập trung vào tối ưu hóa sản phẩm và cải thiện chất lượng dịch vụ, hiện đã hợp tác thành công với các đội ngũ nhân lực tài năng giàu kinh nghiệm trên khắp thế giới. MSC đã thành lập văn phòng tại Úc, Canada, Trung Quốc, Đài Loan, Nhật Bản, Thái Lan, Việt Nam, Malaysia, Philippines và các nước Đông Nam Á khác. \nHãy cùng hợp tác phát triển theo chiến lược toàn cầu hóa của MSC và xây dựng một nền tảng giao dịch một cửa chuyên nghiệp đẳng cấp thế giới.",
     },
     footer: {
         about: "Về CJC",
@@ -341,10 +341,10 @@ export default {
             "Giao dịch Phái sinh tiềm ẩn mức độ rủi ro cao và không loại trừ thất thoát. Giao dịch Phái sinh cũng không phù hợp với tất cả mọi nhà đầu tư. Mức độ thất thoát của nhà đầu tư có thể vược quá số tiền kí gửi ban đầu. Nhà đầu tư nên tìm hiểu lời khuyên từ nhiều nguồn và đảm bảo hiểu đầy đủ các rủi ro cũng như sự phù hợp của sản phẩm trước khi giao dịch với chúng tôi.",
         license: "Giấy phép",
         licenseMessage:
-            "MSC Group Limited đăng kí tại New Zealand (theo số NZBN: 9429046269300) và sở hữu Chứng nhận Nhà cung cấp Dịch vụ Tài chính Phái sinh phát hành bởi Ủy ban Tài chính Thị trường (FMA) New Zealand. Số đăng kí FSPR 569807.",
+            "MSC Limited đăng kí tại New Zealand (theo số NZBN: 9429046269300) và sở hữu Chứng nhận Nhà cung cấp Dịch vụ Tài chính Phái sinh phát hành bởi Ủy ban Tài chính Thị trường (FMA) New Zealand. Số đăng kí FSPR 569807.",
         disclaimer: "Khiếu nại",
         disclaimerMessage:
-            "Bất kì thông tin nào trên trang này đều không thể xem là tư vấn tài chính hoặc mời chào mua bán sản phẩm. MSC Group Limited không đảm bảo tính chính xác và kịp thời của bất kì thông tin nào trên trang này.",
+            "Bất kì thông tin nào trên trang này đều không thể xem là tư vấn tài chính hoặc mời chào mua bán sản phẩm. MSC Limited không đảm bảo tính chính xác và kịp thời của bất kì thông tin nào trên trang này.",
         reminder: "Lưu ý",
         reminderMessage:
             "Chúng tôi không nhận khách hàng từ Trung Quốc và Hồng Kông. Nếu bạn có bất cứ câu hỏi nào, hãy liên lạc đội ngũ chăm sóc khách hàng hoặc chuyên viên kinh doanh của chúng tôi.",

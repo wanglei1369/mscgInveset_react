@@ -2,12 +2,12 @@
 
 export default {
     pagetitle: "Home",
-    heading: "MSC Group",
+    heading: "MSC",
     description: "Reliable  Financial DerivativeTrading Partner",
     businessPartner: "Business Partners",
     whyCJC: {
-        whyCjcTitle: "Why Choose MSC Group",
-        whyCjcMessage: "Our clients choose MSC Group because we offer: ",
+        whyCjcTitle: "Why Choose MSC",
+        whyCjcMessage: "Our clients choose MSC because we offer: ",
         advantage: {
             competitiveSpreads: "Competitive Spreads",
             advantageTitle: "Our Advantage",
@@ -18,21 +18,21 @@ export default {
             competitiveSpreadsAndLowTransactionCosts: "Competitive Spreads and Low Transaction Costs",
             eminentCustomerService: "Eminent Customer Service",
             superiorExecutionMessage:
-                "We utilize the latest technology in our platform. The platform allows you to use a wide range of different order types. This will give you the benefit of better control of your transactions. At MSC Group, we are continually looking at ways to improve your trading experience.",
+                "We utilize the latest technology in our platform. The platform allows you to use a wide range of different order types. This will give you the benefit of better control of your transactions. At MSC, we are continually looking at ways to improve your trading experience.",
             latestTechnologyPlatformMessage:
                 "Our platform encompasses many features and capabilities. It can be used from your desktop by downloading the platform and through your web browser. It also supports both Microsoft and Apple operating systems and iPhone and Android applications. We strive to continually upgrade our platform to enhance your trading experience.",
             aWideRangeOfProductsMessage:
-                "MSC Group provides a wide range of products for its clients. Presently, foreign exchange, precious metals, stock indices, and other CFDs are our more popular products. We offer over 100 different currency pairs and many popular stock index and crude oil CFDs.",
+                "MSC provides a wide range of products for its clients. Presently, foreign exchange, precious metals, stock indices, and other CFDs are our more popular products. We offer over 100 different currency pairs and many popular stock index and crude oil CFDs.",
             NDDTradingMessage:
                 "With our NDD trading, you will get prices immediately without any dealer intervention. This ensures that you get the best available prices and in the shortest possible time.",
             competitiveSpreadsAndLowTransactionCostsMessage:
-                "At MSC Group, we always strive to provide you with competitive spreads and transaction costs. Our customers will benefit from our low spreads and transaction costs.",
+                "At MSC, we always strive to provide you with competitive spreads and transaction costs. Our customers will benefit from our low spreads and transaction costs.",
             eminentCustomerServiceMessage: "We have a team of experienced and dedicated staff to service you.",
         },
     },
     services: {
         licensedForexDealer: " A broker with integrity",
-        licensedForexDealer1PreBlue: "MSC Group is committed to strictly complying with",
+        licensedForexDealer1PreBlue: "MSC is committed to strictly complying with",
         licensedForexDealer1Blue: " AML relevant regulations and standards",
         licensedForexDealer1PostBlue:
             " , and every transaction is strictly monitored to avoid any behaviour that harms the interests of investors. ",
@@ -44,14 +44,14 @@ export default {
         licensedForexDealer3Blue: " friendly and secure trading platform",
         licensedForexDealer3PostBlue:
             " with excellent service and a wide range of products to suit our customers' needs.",
-        globalizationStrategy: "MSC Group Globalization Strategy",
-        globalizationStrategyTitle: "MSC Group set its eyes to the whole world",
+        globalizationStrategy: "MSC Globalization Strategy",
+        globalizationStrategyTitle: "MSC set its eyes to the whole world",
         globalizationStrategyMessage1:
-            "We have cooperation relationships with teams from different areas and countries, which also make MSC Group become an international company.",
+            "We have cooperation relationships with teams from different areas and countries, which also make MSC become an international company.",
         globalizationStrategyMessage2:
-            "Join us in building the global development strategy of MSC Group, and help MSC Group ascend on the international stage.",
+            "Join us in building the global development strategy of MSC, and help MSC ascend on the international stage.",
         tradingPlatformTitle: "Your Trading Platform",
-        tradingPlatformMessage1: "With MetaTrader 4 & MSC Group, trading becomes flexible and convenient. ",
+        tradingPlatformMessage1: "With MetaTrader 4 & MSC, trading becomes flexible and convenient. ",
         tradingPlatformMessage2: "Whatever your trading experience",
         tradingPlatformMessage3: "beginner",
         tradingPlatformMessage4: " or ",
@@ -61,14 +61,14 @@ export default {
         aWideRangeOfProducts: "A Wide Range of Products ",
     },
     hero: {
-        heroTitle: "MSC Group",
+        heroTitle: "MSC",
         heroSubtitle1PreCN: "",
         heroSubtitle1CN: "",
         heroSubtitle1PostCN: "",
-        heroSubtitle1: "MSC Group invest in the word with one account",
+        heroSubtitle1: " invest in the word with one account Covering many cities and banks across the country",
         heroSubtitle2: "",
         heroMessage:
-            "Covering many cities and banks across the country",
+            "",
         createLiveAccount: "Create Real Account",
         createDemoAccount: "Contact Us",
         findOutMore: "Find out more",
@@ -86,9 +86,9 @@ export default {
     productsAndServices: {
         productsAndServicesTitle: "Products and Services",
         pageTitle: "Products and Services",
-        pageDesc: "MSC Group provides a wide range of products and services",
+        pageDesc: "MSC provides a wide range of products and services",
         cfd: "Contract for difference (CFDs)",
-        cfdMessage1: "MSC Group offers a wide range of CFDS. We provide ",
+        cfdMessage1: "MSC offers a wide range of CFDS. We provide ",
         cfdMessage2: "foreign exchange, precious metals, stock index and crude oil CFDs.",
         cfdMessage3:
             "Our prices are competitive, and traders make use of our easy-to-use and secure trading platform. Our platform allows for real-time trading and contains a wide range of trading and risk management functions.",
@@ -106,17 +106,17 @@ export default {
         crudeOilMessage:
             "Crude oil is one of the most actively traded commodities in the world. Global oil reserves, global oil production, inventory and other crude oil market information can reflect the trend of crude oil. Crude oil CFDs are popular with both speculators and those who need to hedge their exposure. It allows investors to trade without having to accept or make physical delivery. It also enables traders to invest based on leverage and as a result, reduce transaction costs.",
         introducingBrokersMessage:
-            "We welcome business relationships with those who are interested to help us establish relationships with clients. Talk to us today about how to be an introducing broker of MSC Group.",
+            "We welcome business relationships with those who are interested to help us establish relationships with clients. Talk to us today about how to be an introducing broker of MSC.",
         multiAccountManagerSolution: "Multi Account Manager Solution",
         multiAccountManagerSolutionMessage:
-            "MSC Group offers a high performance Multi Account Manager (MAM) solution that can be customised to your need. With this MAM, the administrative side is taken care of by us, leaving you to excel in your trade management.",
+            "MSC offers a high performance Multi Account Manager (MAM) solution that can be customised to your need. With this MAM, the administrative side is taken care of by us, leaving you to excel in your trade management.",
         pammMessgae:
             "PAMM（Percentage Allocation Management Module or Percent Allocation Money Management): PAMM can make many sub-accounts trade through one main account at the meantime. This plugin can help the broker agents, financial planners and professional traders trade for many clients at the meantime. ",
         copyTrading: "Copy Trading",
         copyTradingMessage:
             "Copy trading enables you to see what real people are trading in real time, find and follow the traders you like, and, of course, copy their trading activity with just a few clicks.",
         accessCopytrading: "Click here to access copytrading client portal",
-        hedge: "MSC Group invest in the word with one account.",
+        hedge: " invest in the word with one account Covering many cities and banks across the country.",
         hedgeMessage:
             "",
         contactUs: "Contact us to learn more",
@@ -134,7 +134,7 @@ export default {
         accountType: "Account Type",
         copyTrading: "Copy Trading Account",
         masterTrading: "Master Account",
-        contactAgree: "I have read and agree to MSC Group's stated conditions in",
+        contactAgree: "I have read and agree to MSC's stated conditions in",
         contactAnd: "and",
         contactSubmit: "Submit",
         privacyPolicy: "Privacy Policy",
@@ -148,9 +148,9 @@ export default {
     aboutUs: {
         brandHistory: "Brand History",
         brandHistoryStory:
-            "MSC Group is a leading global financial institution which offers clients the opportunity to trade the financial markets via contracts for difference (CFDs). Our goal is constantly exploring and discovering new heights in trading technology to provide the most superior and unequaled trading experience for our clients. \nWith the extraordinary customer service, strict financial security and extensive experience, MSC Group have granted an Australian Financial Services Licence issued by the Australian Securities and Investments Commission. Our registration number is 428289. \nMSC Group attaches great importance to the development of globalization and has been actively planning its globalization strategy. By continuously focusing on product optimization and improving service quality, we have successfully carried out deep-level cooperation with talented and experienced teams around the world. \nJoin us together to develop the MSC Group global strategy and build a world-class professional one-stop trading platform.",
+            "MSC is a leading global financial institution which offers clients the opportunity to trade the financial markets via contracts for difference (CFDs). Our goal is constantly exploring and discovering new heights in trading technology to provide the most superior and unequaled trading experience for our clients. \nWith the extraordinary customer service, strict financial security and extensive experience, MSC have granted an Australian Financial Services Licence issued by the Australian Securities and Investments Commission. Our registration number is 428289. \nMSC attaches great importance to the development of globalization and has been actively planning its globalization strategy. By continuously focusing on product optimization and improving service quality, we have successfully carried out deep-level cooperation with talented and experienced teams around the world. \nJoin us together to develop the MSC global strategy and build a world-class professional one-stop trading platform.",
         licence:
-            "MSC Group has a Australian Financial Services Licence issued by the  Australian Securities and Investments Commission .\nOur registration number is 428289. \n",
+            "MSC has a Australian Financial Services Licence issued by the  Australian Securities and Investments Commission .\nOur registration number is 428289. \n",
         checkLicence: "Check Our License on ASIC Official Website",
     },
     qna: {
@@ -168,25 +168,25 @@ export default {
             "When you receive the notification that the account application is successful, you can use the login account and password in the email to enter the account. You can trade after you deposit sufficient funds in your account.",
         resetPassword: "How can I reset my password?",
         resetPasswordAns:
-            "Your password can be reset on the trading platform. If you are still unable to reset your password, you can send an email to us to reset the password from your registered email with us, to our customer service email address client@mscgroupsecurities.com. After verifying your information, we will send the reset password to the email address you registered when you opened the account. You can also contact our online customer service staff or call our customer service team for consultation.",
+            "Your password can be reset on the trading platform. If you are still unable to reset your password, you can send an email to us to reset the password from your registered email with us, to our customer service email address client@MSCsecurities.com. After verifying your information, we will send the reset password to the email address you registered when you opened the account. You can also contact our online customer service staff or call our customer service team for consultation.",
         deposit: "How do I deposit funds into my account?",
         depositAns:
-            "You can deposit funds directly into our client trust bank account. We only accept electronic transfers. We do not accept cash, cheques or any other instruments or types of transfers. The details of the client trust bank account can be obtained from MSC Group’s representatives. We only accept funds that are transferred from a bank account bearing the same name as the account with us. Transfers from other parties will be returned and any fees incurred will payable by you.",
+            "You can deposit funds directly into our client trust bank account. We only accept electronic transfers. We do not accept cash, cheques or any other instruments or types of transfers. The details of the client trust bank account can be obtained from MSC’s representatives. We only accept funds that are transferred from a bank account bearing the same name as the account with us. Transfers from other parties will be returned and any fees incurred will payable by you.",
         withdraw: "How can I withdraw funds from my account?",
         withdrawAns:
-            "Please login on MSC Group’ website. Submit the withdrawal request after completing the information as required. Please ensure that the bank account which is receiving the funds is in the same name as the account with us. Any application to transfer to a third party will be rejected.",
+            "Please login on MSC’ website. Submit the withdrawal request after completing the information as required. Please ensure that the bank account which is receiving the funds is in the same name as the account with us. Any application to transfer to a third party will be rejected.",
         fundsSafe: "Are my funds safe?",
         fundsSafeAns:
             "In accordance with all the regulations, all client funds are fully segregated from the company’s own funds and kept in clients’ trust account in major commercial banks. This ensures that client funds cannot be used for any other purpose.",
-        processingFee: "Does MSC Group charge fees for deposit and withdraw?",
+        processingFee: "Does MSC charge fees for deposit and withdraw?",
         processingFeeAns:
             "We do not charge fees for deposit. Depending on the type of withdrawals, a fee may be charged. The type of fees charged, and the amount can be found in the Fees Schedule on our website.",
         liquidation: " What is the mandatory closing rule for the MT4 account?",
         liquidationAns:
-            " You are responsible for testing your account and maintaining the required margin at all times to maintain your open position. The default minimum margin requirement for MSC Group is 100%. This means that at any time, if your account funds fall to 100% of the required margin, you will be automatically closed. The closing process is as follows: The maximum undisbursed accumulated net position loss will be closed first, followed by the next largest losing position, and so on, until the required margin requirement is met or exceeded. Depending on the size of the open position and the unrealized gains and losses, all open positions may be closed to meet margin requirements.",
+            " You are responsible for testing your account and maintaining the required margin at all times to maintain your open position. The default minimum margin requirement for MSC is 100%. This means that at any time, if your account funds fall to 100% of the required margin, you will be automatically closed. The closing process is as follows: The maximum undisbursed accumulated net position loss will be closed first, followed by the next largest losing position, and so on, until the required margin requirement is met or exceeded. Depending on the size of the open position and the unrealized gains and losses, all open positions may be closed to meet margin requirements.",
         blowUp: " Will trading break the position?",
         blowUpAns:
-            " It may or may not break the position, depending on the account occupancy margin and the net value of the trader's account. MSC Group uses floating spreads instead of fixed spreads. Due to the fluctuation of the spread, the net value will change, the spread will increase, and the net value will decrease. Therefore, when the market is in the data or the announcement of the news, as well as the opening and closing time, it is often accompanied by market conditions with spreads. For customers who lock trading, please reserve sufficient funds in advance. [Remarks] Risks about the lockout of the lockouts When the market is in a non-agricultural and other important data or when the important news is announced, the huge fluctuations and the opening time are often accompanied by the market conditions of spreads. For customers who lock the trading, please Keep enough funds to avoid forced spread when the net value is lower than 100% of the used margin due to the spread. If the market is volatile, the position will not stop at 100%, but maybe lower than 100%. The closing of the stop-loss order for the lock order may be asymmetrical. (Because the spread between the bid price and the selling price increases, the transaction price of the bid price and the selling price varies greatly.) Please be aware. MSC Group is not responsible for any loss of lockouts caused by market factors. MSC Group will not compensate for any lockouts caused by market factors. MSC Group has the right to pursue a portion of the lock-up position that is negative due to market factors.",
+            " It may or may not break the position, depending on the account occupancy margin and the net value of the trader's account. MSC uses floating spreads instead of fixed spreads. Due to the fluctuation of the spread, the net value will change, the spread will increase, and the net value will decrease. Therefore, when the market is in the data or the announcement of the news, as well as the opening and closing time, it is often accompanied by market conditions with spreads. For customers who lock trading, please reserve sufficient funds in advance. [Remarks] Risks about the lockout of the lockouts When the market is in a non-agricultural and other important data or when the important news is announced, the huge fluctuations and the opening time are often accompanied by the market conditions of spreads. For customers who lock the trading, please Keep enough funds to avoid forced spread when the net value is lower than 100% of the used margin due to the spread. If the market is volatile, the position will not stop at 100%, but maybe lower than 100%. The closing of the stop-loss order for the lock order may be asymmetrical. (Because the spread between the bid price and the selling price increases, the transaction price of the bid price and the selling price varies greatly.) Please be aware. MSC is not responsible for any loss of lockouts caused by market factors. MSC will not compensate for any lockouts caused by market factors. MSC has the right to pursue a portion of the lock-up position that is negative due to market factors.",
         blowUpRisk: " How to avoid the risk of explosions caused by locked warehouses?",
         blowUpRiskAns:
             " In the real foreign exchange market, we can't predict the next price level, nor can we predict the spread at the next moment, so we can't predict the specific time point at which the lockout may break. If you must lock a position, please use the following method: When locking the position, please ensure that your account margin ratio is maintained at a high level to avoid forced closing of your account due to factors such as spreads. After locking the position, if you want to unlock, you will close a single order. Please pay attention to keep a sufficient margin, otherwise it will cause the unlock to be opened. Although you may not be able to open the position because you do not use the deposit, when you close any order, your other reverse order will be lost, you need to use the deposit, when your net worth is lower than this order. When the margin is 50%, the position will be released.",
@@ -195,10 +195,10 @@ export default {
             " MT4 the overnight interest charges for each products are different; for details, you can view them in the symbol list. The steps are as follows: Right-click on any set of product in the market quote and select ' Trading variety' in the pop-up window. In the 'Trading variety' list, select the products you want to query, for example, XAU USD, find and select the product sand click on the property. The contract details window will pop up. (If you want to add the undisplayed in the market quotation window The productscan be clicked on the symbol list, right click, select all display, it will present the quotation of all currency pairs) Find the corresponding purchase order adjustment inventory fee / Sell order adjustment inventory fee display, positive number represents interest, Negative numbers represent expenses. Remarks: All trading products will have overnight interest, and the quotation bank may make adjustments according to changes in market conditions.",
         acceptNonSelf: " Do you accept non-self’s deposits and withdrawals?",
         acceptNonSelfAns:
-            " MSC Group only supports the client's own bank account for deposit and withdrawal business. MSC Group will not accept any funds from non-personal accounts or bank cards, and any third-party source transfers will be returned. MSC Group does not accept cash or cheques for deposits.",
+            " MSC only supports the client's own bank account for deposit and withdrawal business. MSC will not accept any funds from non-personal accounts or bank cards, and any third-party source transfers will be returned. MSC does not accept cash or cheques for deposits.",
         whatIsMt4: "What’s MT4?",
         whatIsMt4Ans:
-            "MT4 is a widely used trading platform which was developed by MetaQuotes in 2005. MT4 is not only used for foreign exchange trading but also for trading other markets. MSC Group customers can use MT4 platform to trade foreign currencies, stock, indices, metals and commodities.",
+            "MT4 is a widely used trading platform which was developed by MetaQuotes in 2005. MT4 is not only used for foreign exchange trading but also for trading other markets. MSC customers can use MT4 platform to trade foreign currencies, stock, indices, metals and commodities.",
         whyMt4: "Why MT4?",
         whyMt4Ans:
             "There are several reasons why MT4 is popular:\nMT4 can be used for automatic trading, and you can customise and create your own calculation formula. \nMT4 has the highest level of customization, where a large number of Apps can be used to improve its graphics, user interface and functionalities.\nMT4 is a one-stop shop that can be used to trade with various suppliers.",
@@ -212,15 +212,15 @@ export default {
             "You can contact our customer service or send an email to our official email address to apply for a password reset. You can also contact our customer service and ask for 'password reset application'. You need to fill out details and sign in the application and send an email to our official email address or our customer service. You will receive an email containing 'Password reset success notification' from us. You can use the new password in the email and reset a new one later",
         invalidAccount: "What should I do if my account shows 'invalid' and fails to login?",
         invalidAccountAns:
-            "Usually, this is caused by the server selection error or wrong password. ‘MSCGroup-Real’ is for Standard account server. \nPlease choose the right server. Initial password must be comprised of both letters and numbers. Please make sure type in the correct password or copy and paste from the notification email. ",
+            "Usually, this is caused by the server selection error or wrong password. ‘MSC-Real’ is for Standard account server. \nPlease choose the right server. Initial password must be comprised of both letters and numbers. Please make sure type in the correct password or copy and paste from the notification email. ",
         accountNotFound: "What should I do if the server cannot be found or be selected?",
         accountNotFoundAns:
             "This may be caused by an operating system before windows XP/ 2003 version. Please contact our customer service for more information.",
     },
-    siteName: "MSC Group",
+    siteName: "MSC",
     header: {
         home: "Home",
-        why: "Why MSC Group",
+        why: "Why MSC",
         help: "Help",
         qna: "Q&A",
         document: "Legal Documents",
@@ -238,7 +238,7 @@ export default {
         contact: "Contact",
         callUs: "Call Us Now: ",
         cfd: "Contract for Differences (CFDs)",
-        hedge: "MSC Group invest in the word with one account.",
+        hedge: " invest in the word with one account Covering many cities and banks across the country.",
         ib: "Introducing Brokers",
         mam: "Multi Account Manager Solution",
         news: "Latest News",
@@ -259,53 +259,53 @@ export default {
     platform: {
         platformTitle: "MT4 Platform",
         pageTitle: "MT4 Platform",
-        pageDesc: "MSC Group platform is the perfect solution to meet your trading need.",
+        pageDesc: "MSC platform is the perfect solution to meet your trading need.",
         ultimateSolution: "Ultimate Solution",
         ultimateSolutionMessage:
-            "MSC Group platform is the perfect solution to meet your trading need. With easy and efficient to operate, customizable, product diversity and many other advantages, it will become your investment tool.",
+            "MSC platform is the perfect solution to meet your trading need. With easy and efficient to operate, customizable, product diversity and many other advantages, it will become your investment tool.",
         tradeExecution: "Outstanding Trade Execution",
         tradeExecutionMessage:
-            "On the MSC Group trading platform, you can view real-time quotes such as gold, silver, stock, stock indexes and crude oil at any time; by matching the top international banks, we will help you capture fleeting investment opportunities.",
+            "On the MSC trading platform, you can view real-time quotes such as gold, silver, stock, stock indexes and crude oil at any time; by matching the top international banks, we will help you capture fleeting investment opportunities.",
         platformMessage:
             "Whatever your trading experience, beginner or expert, our platform can easily be tailored to suit your precise trading needs.",
         appleStore: "App Store",
         googlePlay: "Android",
         windowsStore: "Windows",
         apkDownload: "or download the APK file here",
-        serverTitle: "MSC Group MT4 Server",
+        serverTitle: "MSC MT4 Server",
         serverAdvantageTitle: "The Equinix NY4 Advantage",
         serverAdvantageMessage:
             "The Equinix NY4 Data Centres in New York are home to 60+ exchanges and trading platforms, 400+ buy and sell side firms, 150+ financial service providers, and 675+ network bandwidth options.\nEquinix data centres are among the most reliable data centres on earth. In these facilities financial market participants can interact in a low latency environment to ensure the fast transfer of data, supporting fast execution speeds for the end user (subject to the speed of customers’ internet connections in the places they are located).",
-        iphoneTitle: "MSC Group For iPhone",
+        iphoneTitle: "MSC For iPhone",
         iphoneMessage:
-            "The MetaTrader 4 App for iPhone® gives you MSC Group’ advanced  Financial Derivative trading technology and access to your MetaTrader 4 trading account, on an intuitive, iPhone-friendly interface.\nThe result is a mobile  Financial Derivative trading application that offers the flexibility and features you may need to trade anywhere, any time.",
+            "The MetaTrader 4 App for iPhone® gives you MSC’ advanced  Financial Derivative trading technology and access to your MetaTrader 4 trading account, on an intuitive, iPhone-friendly interface.\nThe result is a mobile  Financial Derivative trading application that offers the flexibility and features you may need to trade anywhere, any time.",
         iphoneQuoteTitle: "Live Quotes in Your Hand",
         iphoneQuoteMessage:
-            "The MSC Group App for iPhone® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSC App for iPhone® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         iphoneChartingTitle: "Advanced Charting",
         iphoneChartingMessage:
-            "With easy swipe access to historical data and landscape colour charting the MSC Group App for iPhone® allows  Financial Derivative analysis on the go.",
-        androidTitle: "MSC Group For Android",
+            "With easy swipe access to historical data and landscape colour charting the MSC App for iPhone® allows  Financial Derivative analysis on the go.",
+        androidTitle: "MSC For Android",
         androidMessage:
-            "The MetaTrader 4 App for Android® gives you MSC Group’ advanced  Financial Derivative trading technology and access to your MetaTrader 4 trading account, on an intuitive, Android-friendly interface.\nThe result is a mobile  Financial Derivative trading application that offers the flexibility and features you need to trade anywhere, any time.",
+            "The MetaTrader 4 App for Android® gives you MSC’ advanced  Financial Derivative trading technology and access to your MetaTrader 4 trading account, on an intuitive, Android-friendly interface.\nThe result is a mobile  Financial Derivative trading application that offers the flexibility and features you need to trade anywhere, any time.",
         androidQuoteTitle: "Live Quotes in Your Hand",
         androidQuoteMessage:
-            "The MSC Group App for Android® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSC App for Android® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         androidChartingTitle: "Full Trading Capabilities",
         androidChartingMessage:
-            "With easy access to historical data, landscape colour charting and the latest  Financial Derivative news provided by Dow Jones the MSC Group App for Android® allows  Financial Derivative analysis on the go.",
-        ipadTitle: "MSC Group For iPad",
+            "With easy access to historical data, landscape colour charting and the latest  Financial Derivative news provided by Dow Jones the MSC App for Android® allows  Financial Derivative analysis on the go.",
+        ipadTitle: "MSC For iPad",
         ipadMessage:
-            "The MSC Group Tablet Trading App gives you MSC Group's advanced  Financial Derivative trading technology and access to your MetaTrader 4 trading account, on an intuitive, Tablet-friendly interface.\nThe result is a mobile  Financial Derivative trading application that offers the flexibility and features you may need to trade anywhere, any time.",
+            "The MSC Tablet Trading App gives you MSC's advanced  Financial Derivative trading technology and access to your MetaTrader 4 trading account, on an intuitive, Tablet-friendly interface.\nThe result is a mobile  Financial Derivative trading application that offers the flexibility and features you may need to trade anywhere, any time.",
         ipadQuoteTitle: "Live Quotes in Your Hand",
         ipadQuoteMessage:
-            "The MSC Group App for iPad® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSC App for iPad® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         ipadChartingTitle: "Full Trading Capabilities",
         ipadChartingMessage:
-            "With easy swipe access to historical data, landscape colour charting, the MSC Group Tablet App allows  Financial Derivative analysis on the go.",
-        windowsTitle: "MSC Group For Windows",
+            "With easy swipe access to historical data, landscape colour charting, the MSC Tablet App allows  Financial Derivative analysis on the go.",
+        windowsTitle: "MSC For Windows",
         windowsMessage:
-            "The MSC Group MT4 Client Terminal Platform provides you with live quotes, real-time charts, in-depth news and analytics, tailored tutoring - as well as a host of order management tools, and indicators.\nOur MT4 platform offers a rich and user-friendly interface in a highly customisable trading environment to help improve your trading experience.\nThe MSC Group Client Terminal is designed to enhance trading performance by providing a user-friendly and feature-rich trading environment which can be customised to your personal requirements. The MT4 Client Terminal may be the ideal trading platform for advanced traders seeking a competitive edge. Advanced charting technology coupled with sophisticated order-management tools help you to monitor and control your positions quickly and efficiently.",
+            "The MSC MT4 Client Terminal Platform provides you with live quotes, real-time charts, in-depth news and analytics, tailored tutoring - as well as a host of order management tools, and indicators.\nOur MT4 platform offers a rich and user-friendly interface in a highly customisable trading environment to help improve your trading experience.\nThe MSC Client Terminal is designed to enhance trading performance by providing a user-friendly and feature-rich trading environment which can be customised to your personal requirements. The MT4 Client Terminal may be the ideal trading platform for advanced traders seeking a competitive edge. Advanced charting technology coupled with sophisticated order-management tools help you to monitor and control your positions quickly and efficiently.",
         windowsAdvantageTitle: "",
         windowsAdvantageMessage: "",
         windowsSpecialTitle: "",
@@ -325,7 +325,7 @@ export default {
         southPacific: "South Pacific",
     },
     footer: {
-        about: "About MSC Group",
+        about: "About MSC",
         copyrightInfo: "All Rights Reserved",
         aboutMessage: " Australian Financial Services Licence granted by the Australian Securities and Investments Commission  ",
         licenseNumber: "AFSL Number",
@@ -346,10 +346,10 @@ export default {
             "Trading in CFDs is risky and losses may be substantial. Trading in CFDs may not be suitable for everyone. Your losses may exceed your initial deposit. You are recommended to seek independent advice and ensure that you are aware of and understand the risks and ensure that the product is suitable for you before trading with us.",
         license: "License",
         licenseMessage:
-            "MSC Group is registered in Australia (company number: 160324565) and has a Australian Financial Services Licence issued by the Australian Securities and Investments Commission. AFSL registration number 428289.",
+            "MSC is registered in Australia (company number: 160324565) and has a Australian Financial Services Licence issued by the Australian Securities and Investments Commission. AFSL registration number 428289.",
         disclaimer: "Disclaimer",
         disclaimerMessage:
-            "Nothing in this website shall be construed as financial advice or an invitation to buy or sell a product. MSC Group does not guarantee the accuracy of timeliness of any information on this website.",
+            "Nothing in this website shall be construed as financial advice or an invitation to buy or sell a product. MSC does not guarantee the accuracy of timeliness of any information on this website.",
         reminder: "Reminder",
         reminderMessage:
             "We do not accept customers who are residents in the US and China (including Hong Kong). If you have any questions, please contact our customer service team or the sales representative.",

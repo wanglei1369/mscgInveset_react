@@ -20,7 +20,7 @@ export default function Evaluation() {
     return (
         <>
             <Helmet>
-                <title>Suitability Evaluation | MSCGroup</title>
+                <title>Suitability Evaluation | MSC</title>
                 <meta name="description" content="Ongoing Client Suitability Evaluation Form" />
             </Helmet>
             <LayoutSecondary bannerImg={bannerImg} pageTitle="Suitability Evaluation">
