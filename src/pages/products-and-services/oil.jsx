@@ -54,27 +54,27 @@ const columnsWTIEn = [
 const columnsUSOilExpireZh = [
     {accessor: "symbol", label: "美国原油差价合约", priorityLevel: 1, position: 1, minWidth: 200},
     {accessor: "futures", label: "期货 到期日", priorityLevel: 2, position: 2, minWidth: 150},
-    {accessor: "est", label: "MSCGroup到期日 (美国东部时间下午5点)", priorityLevel: 3, position: 3, minWidth: 150},
+    {accessor: "est", label: "MSC到期日 (美国东部时间下午5点)", priorityLevel: 3, position: 3, minWidth: 150},
     {accessor: "nz", label: "到期日 (亚洲/新西兰早晨)", priorityLevel: 4, position: 4, minWidth: 150},
 ]
 const columnsUKOilExpireZh = [
     {accessor: "symbol", label: "英油原油差价合约", priorityLevel: 1, position: 1, minWidth: 200},
     {accessor: "futures", label: "期货 到期日", priorityLevel: 2, position: 2, minWidth: 150},
-    {accessor: "est", label: "MSCGroup到期日 (美国东部时间下午5点)", priorityLevel: 3, position: 3, minWidth: 150},
+    {accessor: "est", label: "MSC到期日 (美国东部时间下午5点)", priorityLevel: 3, position: 3, minWidth: 150},
     {accessor: "nz", label: "到期日 (亚洲/新西兰早晨)", priorityLevel: 4, position: 4, minWidth: 150},
 ]
 
 const columnsUSOilExpireEn = [
     {accessor: "symbol", label: "US Crude Oil CFD", priorityLevel: 1, position: 1, minWidth: 200},
     {accessor: "futures", label: "Futures Expiry", priorityLevel: 2, position: 2, minWidth: 150},
-    {accessor: "est", label: "MSCGroupExpiry (5pm EST)", priorityLevel: 3, position: 3, minWidth: 150},
+    {accessor: "est", label: "MSCExpiry (5pm EST)", priorityLevel: 3, position: 3, minWidth: 150},
     {accessor: "nz", label: "Expiry (Asia/NZ morning)", priorityLevel: 4, position: 4, minWidth: 150},
 ]
 
 const columnsUKOilExpireEn = [
     {accessor: "symbol", label: "UK Crude Oil CFD Contract", priorityLevel: 1, position: 1, minWidth: 200},
     {accessor: "futures", label: "Futures Expiry", priorityLevel: 2, position: 2, minWidth: 150},
-    {accessor: "est", label: "MSCGroupExpiry (5pm EST)", priorityLevel: 3, position: 3, minWidth: 150},
+    {accessor: "est", label: "MSCExpiry (5pm EST)", priorityLevel: 3, position: 3, minWidth: 150},
     {accessor: "nz", label: "Expiry (Asia/NZ morning)", priorityLevel: 4, position: 4, minWidth: 150},
 ]
 function usOilExpireTableRender(languageCode) {

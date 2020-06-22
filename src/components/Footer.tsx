@@ -142,7 +142,7 @@ export default function Footer() {
                                     <li className="list-inline-item mx-lg-3 my-lg-0 mx-2 my-2">
                                         <a
                                             className="font-secondary text-white"
-                                            href="/media/documents/MSC Group - Privacy Policy.pdf">
+                                            href="/media/documents/MSC - Privacy Policy.pdf">
                                             {t("contactForm.privacyPolicy")}
                                         </a>
                                     </li>
