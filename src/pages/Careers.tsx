@@ -88,7 +88,7 @@ function careersContent(id: number) {
 }
 
 export default function Careers() {
-    const pageTitle = "Careers | MSC Group"
+    const pageTitle = "Careers | MSC"
     const careersDict: {id: number; router: string; content: string; style: string}[] = []
     for (let index = 0; index < dataCareers.length; index++) {
         careersDict.push({

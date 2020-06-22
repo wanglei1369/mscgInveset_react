@@ -2,7 +2,7 @@
 
 export default {
     pagetitle: "메인",
-    heading: "MSCGroup",
+    heading: "MSC",
     description: "신뢰할 수 있는 외환 거래 파트너",
     whyCJC: {
         whyCjcTitle: "CJC 선택의 이유",
@@ -30,7 +30,7 @@ export default {
     },
     services: {
         licensedForexDealer: "무결성을 갖춘 브로커",
-        licensedForexDealer1PreBlue: "MSCGroup은 엄격히 준수할 것을 약속합니다.",
+        licensedForexDealer1PreBlue: "MSC은 엄격히 준수할 것을 약속합니다.",
         licensedForexDealer1Blue: "AML 관련 규정 및 기준",
         licensedForexDealer1PostBlue: "모든 거래는 투자자의 이익을 해치는 행위를 방지하기 위하여 엄격하게 감시됩니다.",
         licensedForexDealer2PreBlue: "당사의 목표는 귀하에게 거래 경험을 제공하는 것입니다.",
@@ -39,12 +39,12 @@ export default {
         licensedForexDealer3PreBlue: "A ",
         licensedForexDealer3Blue: "친근하고 안전한 거래 플랫폼",
         licensedForexDealer3PostBlue: "고객의 요구에 맞는 우수한 서비스와 다양한 거래 상품",
-        globalizationStrategy: "MSCGroup의 글로벌 정책",
+        globalizationStrategy: "MSC의 글로벌 정책",
         globalizationStrategyTitle: "전세계적으로 눈을 돌린 CJC",
         globalizationStrategyMessage1:
-            "당사는 서로 다른 지역 및 국가들과 협력 관계를 맺고 있으며, 이는 MSCGroup을 국제적인 기업으로 만듭니다.",
+            "당사는 서로 다른 지역 및 국가들과 협력 관계를 맺고 있으며, 이는 MSC을 국제적인 기업으로 만듭니다.",
         globalizationStrategyMessage2:
-            "MSCGroup의 글로벌 개발 전략 수립에 동참하시어, MSCGroup이 국제무대에 도약할 수 있도록 도와주세요",
+            "MSC의 글로벌 개발 전략 수립에 동참하시어, MSC이 국제무대에 도약할 수 있도록 도와주세요",
         tradingPlatformTitle: "당신의 거래 플랫폼",
         tradingPlatformMessage1: "MT4 & CJC Marktets 거래의 유연성과 편리성",
         tradingPlatformMessage2: "당신의 거래 경험이 어떠하든",
@@ -56,14 +56,14 @@ export default {
         aWideRangeOfProducts: "다양한 거래 상품",
     },
     hero: {
-        heroTitle: "MSCGroup",
+        heroTitle: "MSC",
         heroSubtitle1PreCN: "",
         heroSubtitle1CN: "모든",
         heroSubtitle1PostCN: "",
         heroSubtitle1: "스마트 거래",
         heroSubtitle2: "시간",
         heroMessage:
-            "우수한 실행력, 안전한 자금 보안성 및 사용하기 쉬운 플랫폼. MSCGroup은 유용한 기능을 갖춘 안정적인 플랫폼을 제공합니다",
+            "우수한 실행력, 안전한 자금 보안성 및 사용하기 쉬운 플랫폼. MSC은 유용한 기능을 갖춘 안정적인 플랫폼을 제공합니다",
         createLiveAccount: "실계좌 만들기",
         createDemoAccount: "데모계좌 실행하기",
         findOutMore: "더 알아보기",
@@ -81,7 +81,7 @@ export default {
     aboutUs: {
         brandHistory: "브랜드 스토리",
         brandHistoryStory:
-            "MSCGroup은 고객들에게 CFD거래상품을 제공해 금융시장을 거래할 수 있는 기회를 제공하는 글로벌 금융회사입니다. 우리의 목표는 고객에게 가장 우수한 거래 환경과 경험을 제공하기 위해 끊임없이 기술력을 향상하는 것입니다. \n 특별한 고객 서비스, 엄격한 금융 보안 및 광범위한 경험으로 CJC는 금융감독원에서 발행한 파생상품 발행자 라이센스를 부여했으며, 독립적인 제3자 기관으로부터 정기적인 금융 및 규정 준수 감사를 받고 있습니다. 당사의 FSPR 등록 번호는 569807입니다. \n MSCGroup은 글로벌 시장에서 자리잡기 위해 현지화 전략을 적극적으로 구상해 왔습니다. 상품 최적화 및 고객 서비스 품질 향상에 지속적으로 주력함으로써, 전 세계의 재능 있고 경험이 풍부한 팀과 심층적인 협력을 성공적으로 진행해 왔습니다. 우리는 호주, 캐나다, 중국, 대만, 일본, 태국, 베트남, 말레이시아, 필리핀, 그리고 다른 동남아시아 국가들에 사무소를 설립했습니다. \n CJC와 함께 글로벌 전략을 개발하고 세계적인 트레이딩 플랫폼을 확인하시길 바랍니다.",
+            "MSC은 고객들에게 CFD거래상품을 제공해 금융시장을 거래할 수 있는 기회를 제공하는 글로벌 금융회사입니다. 우리의 목표는 고객에게 가장 우수한 거래 환경과 경험을 제공하기 위해 끊임없이 기술력을 향상하는 것입니다. \n 특별한 고객 서비스, 엄격한 금융 보안 및 광범위한 경험으로 CJC는 금융감독원에서 발행한 파생상품 발행자 라이센스를 부여했으며, 독립적인 제3자 기관으로부터 정기적인 금융 및 규정 준수 감사를 받고 있습니다. 당사의 FSPR 등록 번호는 569807입니다. \n MSC은 글로벌 시장에서 자리잡기 위해 현지화 전략을 적극적으로 구상해 왔습니다. 상품 최적화 및 고객 서비스 품질 향상에 지속적으로 주력함으로써, 전 세계의 재능 있고 경험이 풍부한 팀과 심층적인 협력을 성공적으로 진행해 왔습니다. 우리는 호주, 캐나다, 중국, 대만, 일본, 태국, 베트남, 말레이시아, 필리핀, 그리고 다른 동남아시아 국가들에 사무소를 설립했습니다. \n CJC와 함께 글로벌 전략을 개발하고 세계적인 트레이딩 플랫폼을 확인하시길 바랍니다.",
         licence:
             "Financial Markets Authority (FMA) 는 뉴질랜드 정부기관으로 금융서비스 및 증권시장에 적용됨에 따라 증권, 재무보고, 회사법 시행 등을 담당하고 있습니다. 또한 증권 거래소, 금융 자문 및 중개회사, 감사인, 신탁업자 및 발행인을 규제하는 역할을 하고 있습니다. \nCJC는 뉴질랜드 금융감독원이 발행하는 파생상품 발행 라이선스를 가지고 있으며, 독립적인 제3자 기관으로부터 정기적인 금융 및 규정 준수 감사를 받고 있습니다. FSPR 등록 번호는 569807입니다. \n",
         checkLicence: "FMA사이트에서 라이선스 확인하기",
@@ -89,9 +89,9 @@ export default {
     productsAndServices: {
         productsAndServicesTitle: "거래상품 및 서비스",
         pageTitle: "거래상품 및 서비스",
-        pageDesc: "MSCGroup은 다양한 거래 상품과 서비스를 제공합니다",
+        pageDesc: "MSC은 다양한 거래 상품과 서비스를 제공합니다",
         cfd: "CFD",
-        cfdMessage1: "MSCGroup은 다양한 CFD 를 제공합니다",
+        cfdMessage1: "MSC은 다양한 CFD 를 제공합니다",
         cfdMessage2: "외환,귀금속,지수 및 원유",
         cfdMessage3:
             "당사의 경쟁력있는 가격과 거래자들은 사용하기 쉽고 안전한 거래 플랫폼을 이용할 수 있습니다. 당사 플랫폼은 실시간 거래가 가능하며, 다양한 거래 및 리스크 관리 기능을 포함하고 있습니다.",
@@ -109,7 +109,7 @@ export default {
         crudeOilMessage:
             "원유는 세계에서 가장 활발히 거래되는 상품 중 하나입니다. 세계 원유 매장량, 생산량, 재고량, 기타 원유 시장 정보는 원유 동향을 반영할 수 있습니다. 원유는 투기자들과 위험 노출의 대비가 필요한 이들에게 가장 인기가 있습니다. 이는 투자자들이 물리적 현상을 받아들이거나 생성하지 않고도 거래를 할 수 있도록 허용됩니다. 또한 거래자가 레버리지에 기반한 투자를 하여 거래비용을 절감할 수 있도록 지원 가능합니다.",
         introducingBrokersMessage:
-            "당사는 고객들과의 관계 형성에 관심이 있는 파트너들과의 파트너쉽을 환영합니다. MSCGroup의 브로커가 되는 방법에 대해 알아보십시오",
+            "당사는 고객들과의 관계 형성에 관심이 있는 파트너들과의 파트너쉽을 환영합니다. MSC의 브로커가 되는 방법에 대해 알아보십시오",
         multiAccountManagerSolution: "다중 계정 관리 솔루션",
         multiAccountManagerSolutionMessage:
             "CJC는 필요에 따라 맞춤 구성이 가능한 MAM솔루션을 제공합니다. 당사에 의해 관리되는 MAM는 귀하의 거래 관리를 훌륭히 수행 가능합니다",
@@ -121,7 +121,7 @@ export default {
         accessCopytrading: "Click here to access copytrading client portal",
         hedge: "기업 환위험 해결 솔루션",
         hedgeMessage:
-            "국가간 거래와 금융기관은 환율의 불확실성으로 인하여 순현금가치 변동 위험에 노출되는 경우가 많습니다. MSCGroup은 기업과 기관에 환율에 대한 합리적인 해결책을 제공하며, 기업이 환율 변동 위험을 제어하고 비용을 절감하여 수익을 유지하도록 지원합니다",
+            "국가간 거래와 금융기관은 환율의 불확실성으로 인하여 순현금가치 변동 위험에 노출되는 경우가 많습니다. MSC은 기업과 기관에 환율에 대한 합리적인 해결책을 제공하며, 기업이 환율 변동 위험을 제어하고 비용을 절감하여 수익을 유지하도록 지원합니다",
         contactUs: "문의하기",
     },
     contactForm: {
@@ -153,7 +153,7 @@ export default {
             "웹 사이트 오른쪽 상단의 회원가입을 누르세요. 회원가입을 완료한 후, 계좌 신청 단계로 넘어갑니다. 계좌 개설을 위해 필요한 자료를 제출해주세요. 등록자료를 제출한 후, 영업일 1-3일 내에 실계좌 로그인 정보가 이메일로 발송됩니다",
         createDemo: "모의계좌 개설은 어떻게 하나요?",
         createDemoAns:
-            "MSCGroup 무료 데모 계좌를 제공합니다. 이를 통해 당사의 플랫폼을 사용해보고 거래 전략 및 플랫폼 사용 방법을 연습할 수 있습니다. 데모 계좌 개설을 원하실 경우'여기',를 클릭하시거나 이전페이지의 홈페이지 하단에 데모 거래 계좌 생성하기를 클릭하세요",
+            "MSC 무료 데모 계좌를 제공합니다. 이를 통해 당사의 플랫폼을 사용해보고 거래 전략 및 플랫폼 사용 방법을 연습할 수 있습니다. 데모 계좌 개설을 원하실 경우'여기',를 클릭하시거나 이전페이지의 홈페이지 하단에 데모 거래 계좌 생성하기를 클릭하세요",
         activateAccount: "실계좌가 활성화가 필요한가요?",
         activateAccountAns:
             "실계좌 개설이 완료되었다면, 이메일로 발송된 계좌 및 비밀번호 정보를 입력하여 계정 로그인이 가능합니다.예치금 입금 후 거래가 가능합니다",
@@ -166,7 +166,7 @@ export default {
         withdraw: "출금처리는 어떻게 진행되나요?",
         withdrawAns: "",
         fundsSafe:
-            "먼저 MSCGroup 웹 사이트에 로그인해주세요. 출금신청 정보를 작성한 후 제출해주세요. 은행계좌가 당사에 등록되어 있는 본인 명의와 동일한지 확인해주세요. 제3자로의 이체 신청은 기각될 수 있습니다",
+            "먼저 MSC 웹 사이트에 로그인해주세요. 출금신청 정보를 작성한 후 제출해주세요. 은행계좌가 당사에 등록되어 있는 본인 명의와 동일한지 확인해주세요. 제3자로의 이체 신청은 기각될 수 있습니다",
         fundsSafeAns: "고객의 자금은 규정에 따라 당사의 자금과 완벽히 분리되며 주요 시중 은행의 신탁 계좌에 보관됩니다",
         processingFee: "입.출금 수수료는 어떻게 되나요?",
         processingFeeAns:
@@ -176,7 +176,7 @@ export default {
             "거래자는 항상 계좌의 개시증거금에 따라 적절한 예금을 유지할 책임이 있습니다. 당사의 강제청산 비율은 100%입니다. 이것은 사용 가능 금액이 개시증거금의 100% 해당하는 금액 이하로 하락시에 자동으로 포지션이 청산된다는 의미입니다. 강제청산의 과정은 다음과 같습니다 : 오픈 포지션 중 손실금액이 가장 큰 포지션부터 청산되며, 이어서 다음으로 손실이 큰 포지션이 순서대로 강제청산 됩니다. 오픈 포지션의 크기와 실현되지 않은 손익에 따라 모든 오픈 포지션은 마진 요건을 충족하기 위하여 청산될 수 있습니다",
         blowUp: "고정 포지션 전략 시행시 계좌가 전액 손실될 수도 있나요?",
         blowUpAns:
-            "계좌의 매매 포지션에 대한 개시증거금과 사용가능금액에 따라 결정됩니다. MSCGroup에서는 변동 스프레드를 제공하고 있습니다. 시장가에 따라 스프레드가 변동할 수 있으며, 스프레드가 벌어질 경우, 사용가능금액이 감소 될 수 있습니다. 시장의 뉴스와 국가별 경제지수 발표 및 시장의 개장 및 폐장 시간에는 스프레드가 벌어지는 현상이 나타날 수 밖에 없습니다. 거래자는 충분한 예치금을 통해 트레이딩을 하시기를 권장합니다. [참고] 고정 포지션 전략으로 계좌잔고 전액손실에 대한 위험고지 . 변동성이 큰 뉴스나 경제지수 발표 혹은 시장의 개〮폐장 시간에 의하여 스프레드가 벌어질 수 있습니다. 고정 포지션 전략을 시행하는 고객은 스프레드로 인해 개시증거금의 100%보다 낮을 때 강제청산 스프레드가 발생하지 않도록 충분한 자금을 유지하시기 바랍니다. 시장의 급변동성이 클 경우 포지션 청산의 자리는 100%에 해당하는 가격이 아닐 수 있으며, 100% 미만으로 하락했을 경우 청산될 수도 있습니다. 양방향 매매 포지션 전략의 이익실현가와 손절가의 체결이 비대칭이 될 수도 있습니다. 매수가와 매도가 사이의 차이인 스프레드가 벌어질 때에는 지정한 매수가와 매도가보다 실제 체결가가 차이가 날 수 있으니 이 점에 유의하시기 바랍니다. MSCGroup은 시장 요인에 의한 손실에 대해 책임지지 않으며, 어떠한 보상도 지원하지 않습니다. MSCGroup은 시장 요인에 의해 마이너스가 된 계좌에 대해 추심할 권리가 있습니다",
+            "계좌의 매매 포지션에 대한 개시증거금과 사용가능금액에 따라 결정됩니다. MSC에서는 변동 스프레드를 제공하고 있습니다. 시장가에 따라 스프레드가 변동할 수 있으며, 스프레드가 벌어질 경우, 사용가능금액이 감소 될 수 있습니다. 시장의 뉴스와 국가별 경제지수 발표 및 시장의 개장 및 폐장 시간에는 스프레드가 벌어지는 현상이 나타날 수 밖에 없습니다. 거래자는 충분한 예치금을 통해 트레이딩을 하시기를 권장합니다. [참고] 고정 포지션 전략으로 계좌잔고 전액손실에 대한 위험고지 . 변동성이 큰 뉴스나 경제지수 발표 혹은 시장의 개〮폐장 시간에 의하여 스프레드가 벌어질 수 있습니다. 고정 포지션 전략을 시행하는 고객은 스프레드로 인해 개시증거금의 100%보다 낮을 때 강제청산 스프레드가 발생하지 않도록 충분한 자금을 유지하시기 바랍니다. 시장의 급변동성이 클 경우 포지션 청산의 자리는 100%에 해당하는 가격이 아닐 수 있으며, 100% 미만으로 하락했을 경우 청산될 수도 있습니다. 양방향 매매 포지션 전략의 이익실현가와 손절가의 체결이 비대칭이 될 수도 있습니다. 매수가와 매도가 사이의 차이인 스프레드가 벌어질 때에는 지정한 매수가와 매도가보다 실제 체결가가 차이가 날 수 있으니 이 점에 유의하시기 바랍니다. MSC은 시장 요인에 의한 손실에 대해 책임지지 않으며, 어떠한 보상도 지원하지 않습니다. MSC은 시장 요인에 의해 마이너스가 된 계좌에 대해 추심할 권리가 있습니다",
         blowUpRisk: "고정 포지션 전략에 의한 손실을 피하는 방법은?",
         blowUpRiskAns:
             "실제 외환 시장상황에서는 앞으로 일어날 상황과 스프레드, 체결가에 대해 예측이 불가합니다. 만약 고정 포지션 전략을 원하실 경우는 다음과 같은 방법을 채택하시길 바랍니다 : 고정 포지션 전략시에는 스프레드와 같은 요인에 의해 강제 청산이 되지 않도록 계좌상의 증거금 비율인 마진레벨을 높은 수준으로 유지하시길 바랍니다. 고정 포지션 전략시 양방향 매매 포지션 중 한 포지션을 청산할 경우, 필히 계좌 잔고가 여유가 있는지 확인하시기 바랍니다. 그렇지 않으면 고정 포지션이 청산될 수 있습니다. 또한 포지션 일부 청산 당시에는 강제청산이나 계좌 잔고 전액 손실이 되지 않았으나 포지션의 상쇄를 통한 자본비율 보호가 해제되어 새로 오픈하는 포지션이나 마진 비율에 영향을 줄 수 있습니다",
@@ -185,10 +185,10 @@ export default {
             "MT4 스왑레이트는 각 상품에 따라 상이합니다. 자세한 사항은 다음에서 확인 가능합니다 : 종합 시세창에서 확인하고자 하는 통화 쌍에 마우스를 대고 오른쪽 버튼을 클릭하면',특성설명',을 누르고 팝업창을 확인합니다.',특성설명', 목록에서 조회할 통화 쌍(예: AUD to USD, AUDUSD)을 선택하고 속성을 클릭 후, 계약 세부사항 팝업창을 확인합니다. (종합시세창에 나오지 않는 거래 상품에 대한 상세설명을 확인하고자 하신다면, 종합시세창에 마우스 오른쪽 버튼을 클릭 후, [모두 표시]를 선택하시면 모든 상품 확인이 가능합니다) 다음으로 상세설명 하단의 스왑 매수와 스왑 매도를 확인하시기 바랍니다. 기타 : 모든 거래 상품은 스왑레이트가 있으며 호가 제시 은행들은 시장 상황에 따라 변동됩니다",
         acceptNonSelf: "본인 외의 제3자의 계좌로 입출금이 가능한가요?",
         acceptNonSelfAns:
-            "CJC 는 오직 고객 본인 명의의 계좌의 입출금만 가능합니다. MSCGroup은 타인명의의 계좌 또는 은행 카드의 어떠한 자금도 받지 않으며, 제3자에 의한 이체는 모두 반환됩니다. MSCGroup은 현금, 수표의 입금은 허용하지 않습니다",
+            "CJC 는 오직 고객 본인 명의의 계좌의 입출금만 가능합니다. MSC은 타인명의의 계좌 또는 은행 카드의 어떠한 자금도 받지 않으며, 제3자에 의한 이체는 모두 반환됩니다. MSC은 현금, 수표의 입금은 허용하지 않습니다",
         whatIsMt4: "What’s MT4?",
         whatIsMt4Ans:
-            "MT4 is a widely used trading platform which was developed by MetaQuotes in 2005. MT4 is not only used for foreign exchange trading but also for trading other markets. MSCGroup customers can use MT4 platform to trade foreign currencies, stock, indices, metals and commodities.",
+            "MT4 is a widely used trading platform which was developed by MetaQuotes in 2005. MT4 is not only used for foreign exchange trading but also for trading other markets. MSC customers can use MT4 platform to trade foreign currencies, stock, indices, metals and commodities.",
         whyMt4: "Why MT4?",
         whyMt4Ans:
             "There are several reasons why MT4 is popular:\nMT4 can be used for automatic trading, and you can customise and create your own calculation formula. \nMT4 has the highest level of customization, where a large number of Apps can be used to improve its graphics, user interface and functionalities.\nMT4 is a one-stop shop that can be used to trade with various suppliers.",
@@ -207,7 +207,7 @@ export default {
         accountNotFoundAns:
             "This may be caused by an operating system before windows XP/ 2003 version. Please contact our customer service for more information.",
     },
-    siteName: "MSCGroup",
+    siteName: "MSC",
     header: {
         home: "메인",
         why: "CJC 선택의 이유",
@@ -251,46 +251,46 @@ export default {
         pageDesc: "고객의 거래 요구사항을 충족하는 완벽한 솔루션",
         ultimateSolution: "최고의 솔루션",
         ultimateSolutionMessage:
-            "MSCGroup플랫폼은 고객의 거래 요구사항을 충족하는 완벽한 솔루션입니다. 쉽고 효율적인 운영, 사용자 정의, 제품의 다양성 및 기타 여러 이점을 통해 당신의 완벽한 투자 도구가 될 것입니다",
+            "MSC플랫폼은 고객의 거래 요구사항을 충족하는 완벽한 솔루션입니다. 쉽고 효율적인 운영, 사용자 정의, 제품의 다양성 및 기타 여러 이점을 통해 당신의 완벽한 투자 도구가 될 것입니다",
         tradeExecution: "뛰어난 거래 실행",
         tradeExecutionMessage:
-            "MSCGroup 거래 플랫폼에서는 금, 은, 외환, 지수, 원유 등의 가격을 실시간으로 확인 가능하며, 상위 국제 은행과 연계하여 고객이 투자 기회를 포착할 수 있도록 도울 것입니다",
+            "MSC 거래 플랫폼에서는 금, 은, 외환, 지수, 원유 등의 가격을 실시간으로 확인 가능하며, 상위 국제 은행과 연계하여 고객이 투자 기회를 포착할 수 있도록 도울 것입니다",
         platformMessage:
             "거래 경험, 초보자든 전문가든 당사의 플랫폼은 고객의 정확한 거래 니즈에 따라 손쉽게 조정이 가능합니다",
         appleStore: "앱 스토어",
         googlePlay: "안드로이드",
         windowsStore: "윈도우",
         apkDownload: "어플리케이션 다운로드",
-        serverTitle: "MSCGroup MT4 Server",
+        serverTitle: "MSC MT4 Server",
         serverAdvantageTitle: "The Equinix NY4 Advantage",
         serverAdvantageMessage:
             "The Equinix NY4 Data Centres in New York are home to 60+ exchanges and trading platforms, 400+ buy and sell side firms, 150+ financial service providers, and 675+ network bandwidth options.\nEquinix data centres are among the most reliable data centres on earth. In these facilities financial market participants can interact in a low latency environment to ensure the fast transfer of data, supporting fast execution speeds for the end user (subject to the speed of customers’ internet connections in the places they are located).",
-        iphoneTitle: "MSCGroup For iPhone",
+        iphoneTitle: "MSC For iPhone",
         iphoneMessage: "",
         iphoneQuoteTitle: "Live Quotes in Your Hand",
         iphoneQuoteMessage:
-            "The MSCGroupApp for iPhone® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSCApp for iPhone® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         iphoneChartingTitle: "Advanced Charting",
         iphoneChartingMessage:
-            "With easy swipe access to historical data and landscape colour charting the MSCGroupApp for iPhone® allows Forex analysis on the go.",
-        androidTitle: "MSCGroup For Android",
+            "With easy swipe access to historical data and landscape colour charting the MSCApp for iPhone® allows Forex analysis on the go.",
+        androidTitle: "MSC For Android",
         androidMessage:
-            "The MetaTrader 4 App for Android® gives you MSCGroup’ advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Android-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you need to trade anywhere, any time.",
+            "The MetaTrader 4 App for Android® gives you MSC’ advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Android-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you need to trade anywhere, any time.",
         androidQuoteTitle: "Live Quotes in Your Hand",
         androidQuoteMessage:
-            "The MSCGroup App for Android® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSC App for Android® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         androidChartingTitle: "Full Trading Capabilities",
         androidChartingMessage:
-            "With easy access to historical data, landscape colour charting and the latest Forex news provided by Dow Jones the MSCGroup App for Android® allows Forex analysis on the go.",
-        ipadTitle: "MSCGroup For iPad",
+            "With easy access to historical data, landscape colour charting and the latest Forex news provided by Dow Jones the MSC App for Android® allows Forex analysis on the go.",
+        ipadTitle: "MSC For iPad",
         ipadMessage:
-            "The MSCGroup Tablet Trading App gives you MSCGroup's advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Tablet-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you may need to trade anywhere, any time.",
+            "The MSC Tablet Trading App gives you MSC's advanced forex trading technology and access to your MetaTrader 4 trading account, on an intuitive, Tablet-friendly interface.\nThe result is a mobile forex trading application that offers the flexibility and features you may need to trade anywhere, any time.",
         ipadQuoteTitle: "Live Quotes in Your Hand",
         ipadQuoteMessage:
-            "The MSCGroup App for iPad® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
+            "The MSC App for iPad® features fast one-tap execution, trading from multiple screens and custom views of real-time exchange rate data.",
         ipadChartingTitle: "Full Trading Capabilities",
         ipadChartingMessage:
-            "With easy swipe access to historical data, landscape colour charting, the MSCGroup Tablet App allows Forex analysis on the go.",
+            "With easy swipe access to historical data, landscape colour charting, the MSC Tablet App allows Forex analysis on the go.",
     },
     map: {
         eastAsia: "동아시아",
@@ -322,10 +322,10 @@ export default {
             " CFD는 위험성과 손실을 수반할 수 있으며, 모든 사람에게 적합하지 않을 수 있습니다. 귀하의 손실은 초기 보증금을 초과할 수 있습니다.  리스크에 대한 충분한 이해와 귀하에게 적절한 거래 상품인지에 대하여 충분히 고려하시기 바랍니다",
         license: "규제기관",
         licenseMessage:
-            " MSCGroup은 뉴질랜드(NZBN 번호:9429046269300)에 등록되어 있으며, 금융시장 당국이 발행한 파생상품 발행 허가증을 보유하고 있습니다. FSPR 등록번호는 569807입니다",
+            " MSC은 뉴질랜드(NZBN 번호:9429046269300)에 등록되어 있으며, 금융시장 당국이 발행한 파생상품 발행 허가증을 보유하고 있습니다. FSPR 등록번호는 569807입니다",
         disclaimer: "성명고지",
         disclaimerMessage:
-            " 이 웹사이트의 어떠한 것도 재정적 조언이나 거래상품의 매수,매도에 대해 대변하지 않습니다. MSCGroup은 이 웹사이트의 정보에 대한 적합성을 보장하지 않습니다",
+            " 이 웹사이트의 어떠한 것도 재정적 조언이나 거래상품의 매수,매도에 대해 대변하지 않습니다. MSC은 이 웹사이트의 정보에 대한 적합성을 보장하지 않습니다",
         reminder: "주의사항",
         reminderMessage:
             " 당사는 중국과 홍콩에 거주하는 고객은 수용하지 않습니다. 추가 문의사항이 있으실 경우 고객지원팀에 문의 부탁드립니다",

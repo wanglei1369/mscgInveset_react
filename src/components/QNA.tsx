@@ -6,7 +6,7 @@ import Helmet from "react-helmet"
 
 export default function QNA() {
     const {t} = useTranslation("")
-    const pageTitle = t("qna.qnaTitle") + " | MSC Group"
+    const pageTitle = t("qna.qnaTitle") + " | MSC"
     const pageDesc = t("qna.qnaTitle")
     return (
         <>

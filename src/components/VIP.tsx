@@ -15,7 +15,7 @@ export default function VIP() {
                     <div className="row mb-5 justify-content-center">
                         <div className="col-lg-8 col-md-12">
                             <h6 className="mb-5 mt-5" style={{color: "#7baab6"}}>
-                                感谢您对MSCGroup
+                                感谢您对MSC
                                 的认可，请您仔细阅读此活动须知并回复邮件确认参与此次活动。祝您交易愉快！
                             </h6>
                             <h5 className="col-lg-12">具体细则如下</h5>
@@ -32,7 +32,7 @@ export default function VIP() {
                                 之前完成入金，便可申请参加此活动
                             </p>
                             <p className="col-lg-12">
-                                4. 赠金有效期为三个月，从申请赠金起开始计算。当赠金到期时，MSCGroup 有权利取走赠金。
+                                4. 赠金有效期为三个月，从申请赠金起开始计算。当赠金到期时，MSC 有权利取走赠金。
                             </p>
                             <p className="col-lg-12">
                                 5. 客户无权直接取出赠金，仅限于交易使用。如果当账户净值小于等于赠金金额的 120%， CJC
@@ -101,13 +101,13 @@ export default function VIP() {
                             <p className="col-lg-12 mt-4">
                                 8. 客户交易量达标后请自行发邮件至
                                 <a href="mailto:client@mscgroupsecurities.com">client@mscgroupsecurities.com</a>
-                                申领赠金；交易量以 MSCGroup 核实后为准。
+                                申领赠金；交易量以 MSC 核实后为准。
                             </p>
                             <Contacts />
                             <p className="col-lg-12" style={{fontSize: "10px"}}>
                                 您参与此次活动即确认您知悉并将遵守我们的活动条款。
                                 <br />
-                                本活动不能与其他活动叠加，活动最终解释权归 MSCGroup 所有。
+                                本活动不能与其他活动叠加，活动最终解释权归 MSC 所有。
                                 <br />
                                 风险提示：金融产品交易存在风险并可能发生重大损失，也许并不是每个投资者都适合从事此类交易。在做出任何决定之前，您应该考虑此类投资是否适合您或者寻求专业建议。
                                 <br />

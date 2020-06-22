@@ -6,7 +6,7 @@ import {Helmet} from "react-helmet"
 import bannerImg from "../images/calendar/banner.jpg"
 
 export default function Careers() {
-    const pageTitle = "Economic Calendar | MSC Group"
+    const pageTitle = "Economic Calendar | MSC"
     const iframe =
         '<iframe scrolling="no" allowtransparency="true" style="box-sizing: border-box; height: 600px; width: 80vw;" src="https://s.tradingview.com/embed-widget/events/?#%7B%22width%22%3A510%2C%22height%22%3A600%2C%22isTransparent%22%3Afalse%2C%22utm_source%22%3A%22localhost%22%2C%22utm_medium%22%3A%22widget%22%2C%22utm_campaign%22%3A%22events%22%7D" frameborder="0"></iframe>'
     function Iframe(props: any) {

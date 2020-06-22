@@ -6,7 +6,7 @@ export default {
     description: "Rakan Perdagangan Forex Yang Boleh Dipercayai",
     whyCJC: {
         whyCjcTitle: "Mengapa Memilih CJC",
-        whyCjcMessage: "Our clients choose MSCGroup because we offer: ",
+        whyCjcMessage: "Our clients choose MSC because we offer: ",
         advantage: {
             advantageTitle: "Kelebihan Kami",
             superiorExecution: "Pelaksanaan Superior",
@@ -148,25 +148,25 @@ export default {
             "Apabila anda menerima pemberitahuan bahawa permohonan akaun berjaya, anda boleh menggunakan akaun log masuk dan kata laluan dalam emel untuk memasukkan akaun. Anda boleh berdagang selepas anda mendepositkan dana yang mencukupi dalam akaun anda.",
         resetPassword: "Bagaimanakah saya boleh menetapkan semula kata laluan saya?",
         resetPasswordAns:
-            "Kata laluan anda boleh ditetapkan semula pada platform dagangan. Jika anda masih tidak dapat menetapkan semula kata laluan anda, anda boleh menghantar emel kepada kami untuk menetapkan semula kata laluan dari emel berdaftar dengan kami, ke alamat emel khidmat pelanggan kami client@mscgroupsecurities.com. Setelah mengesahkan maklumat anda, kami akan menghantar kata laluan semula ke alamat emel yang anda berdaftar semasa anda membuka akaun. Anda juga boleh menghubungi kakitangan perkhidmatan pelanggan dalam talian kami atau hubungi pasukan perkhidmatan pelanggan kami untuk berunding.",
+            "Kata laluan anda boleh ditetapkan semula pada platform dagangan. Jika anda masih tidak dapat menetapkan semula kata laluan anda, anda boleh menghantar emel kepada kami untuk menetapkan semula kata laluan dari emel berdaftar dengan kami, ke alamat emel khidmat pelanggan kami client@MSCsecurities.com. Setelah mengesahkan maklumat anda, kami akan menghantar kata laluan semula ke alamat emel yang anda berdaftar semasa anda membuka akaun. Anda juga boleh menghubungi kakitangan perkhidmatan pelanggan dalam talian kami atau hubungi pasukan perkhidmatan pelanggan kami untuk berunding.",
         deposit: "Bagaimana saya menyimpan dana ke dalam akaun saya?",
         depositAns:
             "Anda boleh mendepositkan dana terus ke dalam akaun bank amanah pelanggan kami. Kami hanya menerima pemindahan elektronik. Kami tidak menerima wang tunai, cek atau apa-apa instrumen atau jenis pemindahan lain. Butiran akaun bank amanah pelanggan boleh diperoleh daripada wakil CJC. Kami hanya menerima dana yang dipindahkan dari akaun bank yang mempunyai nama yang sama dengan akaun kami. Pemindahan dari pihak lain akan dikembalikan dan sebarang bayaran yang dikenakan akan dibayar oleh anda.",
         withdraw: "Bagaimanakah saya boleh mengeluarkan dana dari akaun saya?",
         withdrawAns:
-            "Sila log masuk ke laman web MSCGroup. Hantar permintaan pengeluaran selepas menyiapkan maklumat seperti yang diperlukan. Sila pastikan bahawa akaun bank yang menerima dana adalah dengan nama yang sama dengan akaun kami. Sebarang permohonan untuk dipindahkan ke pihak ketiga akan ditolak.",
+            "Sila log masuk ke laman web MSC. Hantar permintaan pengeluaran selepas menyiapkan maklumat seperti yang diperlukan. Sila pastikan bahawa akaun bank yang menerima dana adalah dengan nama yang sama dengan akaun kami. Sebarang permohonan untuk dipindahkan ke pihak ketiga akan ditolak.",
         fundsSafe: "Adakah dana saya selamat?",
         fundsSafeAns:
             "Selaras dengan semua peraturan-peraturan dana pelanggan sepenuhnya diasingkan dari dana syarikat sendiri dan disimpan dalam akaun amanah pelanggan di bank perdagangan utama. Ini memastikan bahawa dana pelanggan tidak boleh digunakan untuk tujuan lain.",
-        processingFee: "Adakah MSCGroup mengenakan yuran untuk deposit dan pengeluaran?",
+        processingFee: "Adakah MSC mengenakan yuran untuk deposit dan pengeluaran?",
         processingFeeAns:
             "Kami tidak mengenakan bayaran untuk deposit. Bergantung pada jenis pengeluaran, bayaran mungkin dikenakan. Jenis yuran yang dikenakan, dan jumlahnya boleh didapati di Jadual Bayaran di laman web kami.",
         liquidation: " Apakah peraturan penutup mandatori untuk akaun MT4?",
         liquidationAns:
-            "Anda bertanggungjawab untuk menguji akaun anda dan mengekalkan margin yang diperlukan pada setiap masa untuk mengekalkan kedudukan terbuka anda. Syarat keperluan margin untuk MSCGroup adalah 100%. Ini bermakna bahawa pada bila-bila masa, jika dana akaun anda jatuh ke 100% margin yang diperlukan, anda akan ditutup secara automatik. Proses penutupan adalah seperti berikut: Kehilangan kedudukan bersih yang terkumpul undisbursed maksimum akan ditutup terlebih dahulu, diikuti dengan kedudukan kalah yang seterusnya dan sehingga keperluan margin yang diperlukan dipenuhi atau melebihi. Bergantung kepada saiz kedudukan terbuka dan keuntungan dan kerugian yang tidak direalisasi, semua posisi terbuka mungkin ditutup untuk memenuhi keperluan margin.",
+            "Anda bertanggungjawab untuk menguji akaun anda dan mengekalkan margin yang diperlukan pada setiap masa untuk mengekalkan kedudukan terbuka anda. Syarat keperluan margin untuk MSC adalah 100%. Ini bermakna bahawa pada bila-bila masa, jika dana akaun anda jatuh ke 100% margin yang diperlukan, anda akan ditutup secara automatik. Proses penutupan adalah seperti berikut: Kehilangan kedudukan bersih yang terkumpul undisbursed maksimum akan ditutup terlebih dahulu, diikuti dengan kedudukan kalah yang seterusnya dan sehingga keperluan margin yang diperlukan dipenuhi atau melebihi. Bergantung kepada saiz kedudukan terbuka dan keuntungan dan kerugian yang tidak direalisasi, semua posisi terbuka mungkin ditutup untuk memenuhi keperluan margin.",
         blowUp: " Adakah dagangan akan memecah kedudukan?",
         blowUpAns:
-            "Ia mungkin atau tidak boleh memecahkan kedudukan, bergantung pada margin penghunian akaun dan nilai bersih akaun pedagang. MSCGroup menggunakan spread terapung bukannya spread tetap. Disebabkan turun naik penyebaran, nilai bersih akan berubah, spread akan meningkat, dan nilai bersih akan berkurangan. Oleh itu, apabila pasaran berada dalam data atau pengumuman berita, serta masa pembukaan dan penutupan, ia sering disertai dengan keadaan pasaran dengan spread. Bagi pelanggan yang mengunci perdagangan, sila rizab dana yang mencukupi terlebih dahulu. [Keterangan] Risiko mengenai lockout Apabila pasaran berada dalam data yang tidak agresif dan penting lainnya atau apabila berita penting diumumkan, turun naik yang besar dan waktu pembukaan sering disertai dengan kondisi pasaran spread. Bagi pelanggan yang mengunci dagangan, sila simpan dana yang mencukupi untuk mengelakkan spread terpaksa apabila nilai bersih lebih rendah daripada 100% margin yang digunakan kerana spread. Sekiranya pasaran tidak menentu, kedudukannya tidak akan berhenti pada 100%, tetapi mungkin lebih rendah daripada 100%. . Penutupan stop-loss order order lock mungkin tidak simetris. (Kerana penyebaran antara harga tawaran dan kenaikan harga jualan, harga transaksi harga bidaan dan harga jual sangat berbeza.) Harap maklum. MSCGroup tidak bertanggungjawab terhadap sebarang kehilangan lockout yang disebabkan oleh faktor pasaran. MSCGroup tidak akan mengimbangi sebarang lockout yang disebabkan oleh faktor pasaran. CJC MARKET mempunyai hak untuk mengejar sebahagian daripada kedudukan kunci yang negatif disebabkan faktor pasaran.",
+            "Ia mungkin atau tidak boleh memecahkan kedudukan, bergantung pada margin penghunian akaun dan nilai bersih akaun pedagang. MSC menggunakan spread terapung bukannya spread tetap. Disebabkan turun naik penyebaran, nilai bersih akan berubah, spread akan meningkat, dan nilai bersih akan berkurangan. Oleh itu, apabila pasaran berada dalam data atau pengumuman berita, serta masa pembukaan dan penutupan, ia sering disertai dengan keadaan pasaran dengan spread. Bagi pelanggan yang mengunci perdagangan, sila rizab dana yang mencukupi terlebih dahulu. [Keterangan] Risiko mengenai lockout Apabila pasaran berada dalam data yang tidak agresif dan penting lainnya atau apabila berita penting diumumkan, turun naik yang besar dan waktu pembukaan sering disertai dengan kondisi pasaran spread. Bagi pelanggan yang mengunci dagangan, sila simpan dana yang mencukupi untuk mengelakkan spread terpaksa apabila nilai bersih lebih rendah daripada 100% margin yang digunakan kerana spread. Sekiranya pasaran tidak menentu, kedudukannya tidak akan berhenti pada 100%, tetapi mungkin lebih rendah daripada 100%. . Penutupan stop-loss order order lock mungkin tidak simetris. (Kerana penyebaran antara harga tawaran dan kenaikan harga jualan, harga transaksi harga bidaan dan harga jual sangat berbeza.) Harap maklum. MSC tidak bertanggungjawab terhadap sebarang kehilangan lockout yang disebabkan oleh faktor pasaran. MSC tidak akan mengimbangi sebarang lockout yang disebabkan oleh faktor pasaran. CJC MARKET mempunyai hak untuk mengejar sebahagian daripada kedudukan kunci yang negatif disebabkan faktor pasaran.",
         blowUpRisk: " Bagaimana untuk mengelakkan risiko letupan yang disebabkan oleh gudang yang terkunci?",
         blowUpRiskAns:
             "Di pasaran pertukaran asing sebenar, kami tidak dapat meramalkan paras harga seterusnya, dan kami juga tidak dapat meramalkan spread pada masa akan datang, jadi kami tidak dapat meramalkan titik waktu tertentu di mana kunci sekatan boleh pecah. Jika anda harus mengunci kedudukan, sila gunakan kaedah berikut: Semasa mengunci kedudukan, sila pastikan nisbah margin akaun anda dikekalkan pada tahap yang tinggi untuk mengelakkan penutupan akaun anda disebabkan oleh faktor-faktor seperti spread. Selepas mengunci kedudukan, jika anda mahu membuka kunci, anda akan menutup satu pesanan. Sila beri perhatian untuk memastikan margin yang mencukupi, jika tidak, ia akan menyebabkan kunci terbuka. Walaupun anda mungkin tidak dapat membuka posisi kerana anda tidak menggunakan deposit, apabila anda menutup pesanan, reversed order lain akan hilang, anda perlu menggunakan deposit tersebut, apabila nilai bersih anda lebih rendah daripada pesanan ini. Apabila margin adalah 100%, kedudukannya akan dibebaskan.",
@@ -177,10 +177,10 @@ export default {
         acceptNonSelfAns:
             "CJC hanya menyokong akaun bank pelanggan sendiri untuk perniagaan deposit dan pengeluaran. Pasaran CJC tidak akan menerima apa-apa dana daripada akaun bukan peribadi atau kad bank, dan mana-mana pindahan sumber pihak ketiga akan dikembalikan. Pasaran CJC tidak menerima wang tunai atau cek untuk deposit.",
     },
-    siteName: "MSCGroup",
+    siteName: "MSC",
     header: {
         home: "Halaman",
-        why: "Mengapa MSCGroup",
+        why: "Mengapa MSC",
         support: "Sokongan",
         pns: "Perkhidmatan & Produk",
         platform: "Platform",
@@ -221,7 +221,7 @@ export default {
         checkLicence: "Semak Lesen Kami di Laman Web Rasmi FMA",
         brandHistory: " Sejarah Jenama",
         brandHistoryStory:
-            "MSCGroup adalah institusi kewangan global terkemuka yang menawarkan peluang untuk pelanggan berdagang pasaran kewangan melalui kontrak untuk perbezaan (CFDs). Matlamat kami sentiasa meneroka dan menemui ketinggian baru dalam teknologi dagangan untuk memberikan pengalaman perdagangan yang paling unggul dan tiada bandingan untuk pelanggan kami. \nDengan perkhidmatan pelanggan yang luar biasa, keselamatan kewangan yang ketat dan pengalaman yang luas, CJC telah memberikan Lesen Penerbit Derivatif yang dikeluarkan oleh Lembaga Pasaran Kewangan, kami juga menerima audit kewangan dan pematuhan secara tetap oleh agensi pihak ketiga yang bebas. Nombor pendaftaran FSPR kami ialah 569807. \nMSCGroup melampirkan sangat penting kepada pembangunan globalisasi dan telah secara aktif merancang strategi globalisasinya. Dengan terus memberi tumpuan kepada pengoptimuman produk dan meningkatkan kualiti perkhidmatan, kami telah berjaya melaksanakan kerjasama peringkat mendalam dengan pasukan berbakat dan berpengalaman di seluruh dunia. Kami telah menubuhkan pejabat di Australia, Kanada, China, Taiwan, Jepun, Thailand, Vietnam, Malaysia, Filipina, dan negara-negara Asia Tenggara lain. \nJemput kami bersama-sama untuk membangunkan strategi global MSCGroup dan membina satu platform dagangan profesional bertaraf dunia.",
+            "MSC adalah institusi kewangan global terkemuka yang menawarkan peluang untuk pelanggan berdagang pasaran kewangan melalui kontrak untuk perbezaan (CFDs). Matlamat kami sentiasa meneroka dan menemui ketinggian baru dalam teknologi dagangan untuk memberikan pengalaman perdagangan yang paling unggul dan tiada bandingan untuk pelanggan kami. \nDengan perkhidmatan pelanggan yang luar biasa, keselamatan kewangan yang ketat dan pengalaman yang luas, CJC telah memberikan Lesen Penerbit Derivatif yang dikeluarkan oleh Lembaga Pasaran Kewangan, kami juga menerima audit kewangan dan pematuhan secara tetap oleh agensi pihak ketiga yang bebas. Nombor pendaftaran FSPR kami ialah 569807. \nMSC melampirkan sangat penting kepada pembangunan globalisasi dan telah secara aktif merancang strategi globalisasinya. Dengan terus memberi tumpuan kepada pengoptimuman produk dan meningkatkan kualiti perkhidmatan, kami telah berjaya melaksanakan kerjasama peringkat mendalam dengan pasukan berbakat dan berpengalaman di seluruh dunia. Kami telah menubuhkan pejabat di Australia, Kanada, China, Taiwan, Jepun, Thailand, Vietnam, Malaysia, Filipina, dan negara-negara Asia Tenggara lain. \nJemput kami bersama-sama untuk membangunkan strategi global MSC dan membina satu platform dagangan profesional bertaraf dunia.",
     },
     help: {
         helpTitle: "Tolong",
@@ -231,13 +231,13 @@ export default {
     platform: {
         platformTitle: "Platform MT4",
         pageTitle: "Platform MT4",
-        pageDesc: "Platform MSCGroup adalah penyelesaian sempurna untuk memenuhi keperluan perdagangan anda.",
+        pageDesc: "Platform MSC adalah penyelesaian sempurna untuk memenuhi keperluan perdagangan anda.",
         ultimateSolution: "Penyelesaian Muktamad",
         ultimateSolutionMessage:
-            "Platform MSCGroup adalah penyelesaian sempurna untuk memenuhi keperluan perdagangan anda. Dengan mudah dan cekap untuk beroperasi, disesuaikan, kepelbagaian produk dan banyak kelebihan lain, ia akan menjadi alat pelaburan anda.",
+            "Platform MSC adalah penyelesaian sempurna untuk memenuhi keperluan perdagangan anda. Dengan mudah dan cekap untuk beroperasi, disesuaikan, kepelbagaian produk dan banyak kelebihan lain, ia akan menjadi alat pelaburan anda.",
         tradeExecution: "Pelaksanaan Perdagangan Tertunggak",
         tradeExecutionMessage:
-            "Pada platform dagangan MSCGroup, anda boleh melihat sebut harga masa nyata seperti emas, perak, pertukaran asing, indeks saham dan minyak mentah pada bila-bila masa; dengan memadankan bank-bank antarabangsa teratas, kami akan membantu anda mendapatkan peluang pelaburan yang pantas.",
+            "Pada platform dagangan MSC, anda boleh melihat sebut harga masa nyata seperti emas, perak, pertukaran asing, indeks saham dan minyak mentah pada bila-bila masa; dengan memadankan bank-bank antarabangsa teratas, kami akan membantu anda mendapatkan peluang pelaburan yang pantas.",
         platformMessage:
             "Apa sahaja pengalaman perdagangan anda, pemula atau pakar, platform kami dengan mudah boleh disesuaikan untuk memenuhi keperluan perdagangan anda yang tepat.",
         appleStore: "App Store",
@@ -267,10 +267,10 @@ export default {
             "Dagangan di CFD adalah berisiko dan kerugian mungkin besar. Dagangan CFD mungkin tidak sesuai untuk semua orang. Kerugian anda mungkin melebihi deposit awal anda. Anda disyorkan untuk mendapatkan nasihat bebas dan memastikan bahawa anda mengetahui dan memahami risiko dan memastikan produk tersebut sesuai untuk anda sebelum berdagang dengan kami.",
         license: "Lesen",
         licenseMessage:
-            "MSC Group Limited didaftarkan di New Zealand (NZBN nombor: 9429046269300) dan mempunyai Lesen Penerbit Derivatif yang dikeluarkan oleh Lembaga Pasaran Kewangan. Nombor pendaftaran FSPR 569807.",
+            "MSC Limited didaftarkan di New Zealand (NZBN nombor: 9429046269300) dan mempunyai Lesen Penerbit Derivatif yang dikeluarkan oleh Lembaga Pasaran Kewangan. Nombor pendaftaran FSPR 569807.",
         disclaimer: "Penafian",
         disclaimerMessage:
-            "Tiada apa-apa dalam laman web ini boleh ditafsirkan sebagai nasihat kewangan atau jemputan untuk membeli atau menjual produk. MSC Group Limited tidak menjamin ketepatan ketepatan masa maklumat apa-apa di laman web ini.",
+            "Tiada apa-apa dalam laman web ini boleh ditafsirkan sebagai nasihat kewangan atau jemputan untuk membeli atau menjual produk. MSC Limited tidak menjamin ketepatan ketepatan masa maklumat apa-apa di laman web ini.",
         reminder: "Peringatan",
         reminderMessage:
             "Kami tidak menerima pelanggan yang tinggal di China dan Hong Kong. Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pasukan perkhidmatan pelanggan kami atau wakil jualan.",
