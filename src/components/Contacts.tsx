@@ -36,8 +36,8 @@ export default function Contacts() {
                                             <a className="text-light" href="mailto:client@mscgroupsecurities.com">
                                                 client@mscgroupsecurities.com
                                             </a>
-                                            <br/>
-                                        {/* <address className="text-center">
+                                            {/* <br/>
+                                        <address className="text-center">
                                             <span className="iconfont iconfont-custom icon-address"></span>144 Hobson Street, Auddand Central,Auddand,1010,NZ
                                         </address> */}
                                     </div>
