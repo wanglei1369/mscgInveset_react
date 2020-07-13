@@ -27,6 +27,16 @@ export default function Contacts() {
                                     <div className="col-lg-12">
                                         <h3 className="section-title-con-sm mb-0">{t("contactForm.contactForm")}</h3>
                                         <h5 className="text-light mb-10">{t("contactForm.contactGreeting")}</h5>
+                                        <span className="iconfont iconfont-custom icon-hotelphone"></span>
+                                            <a className="text-light" href="tel:0064223569006">
+                                                +64 223569006
+                                            </a>
+                                            <br />
+                                            <span className="iconfont iconfont-custom icon-Email"></span>
+                                            <a className="text-light" href="mailto:client@mscgroupsecurities.com">
+                                                client@mscgroupsecurities.com
+                                            </a>
+                                            <br/>
                                         {/* <address className="text-center">
                                             <span className="iconfont iconfont-custom icon-address"></span>144 Hobson Street, Auddand Central,Auddand,1010,NZ
                                         </address> */}
