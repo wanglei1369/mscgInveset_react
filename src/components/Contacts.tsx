@@ -33,8 +33,8 @@ export default function Contacts() {
                                             </a>
                                             <br />
                                             <span className="iconfont iconfont-custom icon-Email"></span>
-                                            <a className="text-light" href="mailto:client@mscgroupsecurities.com">
-                                                client@mscgroupsecurities.com
+                                            <a className="text-light" href="mailto:client@mscgroupinvestment.com">
+                                                client@mscgroupinvestment.com
                                             </a>
                                             {/* <br/>
                                         <address className="text-center">
