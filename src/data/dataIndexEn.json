@@ -2,7 +2,7 @@
     {
         "maxmium": "100",
         "symbol": "SPX500",
-        "stop": "100%",
+        "stop": "30%",
         "hours": "GMT+2 Time 01:05-23:10/ Mon-Fri",
         "minimum": "1",
         "key": "1",
@@ -13,7 +13,7 @@
     {
         "maxmium": "100",
         "symbol": "US30",
-        "stop": "100%",
+        "stop": "30%",
         "hours": "GMT+2 Time 01:05-23:10/ Mon-Fri",
         "minimum": "1",
         "key": "2",
@@ -24,7 +24,7 @@
     {
         "maxmium": "100",
         "symbol": "NAS100",
-        "stop": "100%",
+        "stop": "30%",
         "hours": "GMT+2 Time 01:05-23:10/ Mon-Fri",
         "minimum": "1",
         "key": "3",
@@ -35,7 +35,7 @@
     {
         "maxmium": "100",
         "symbol": "HKG33",
-        "stop": "100%",
+        "stop": "30%",
         "hours": "GMT+2 Time 03:20-10:10/ Mon-Fri; Break: 05:55-07:05",
         "minimum": "1",
         "key": "4",
@@ -46,7 +46,7 @@
     {
         "maxmium": "100",
         "symbol": "A50",
-        "stop": "100%",
+        "stop": "30%",
         "hours": "GMT+2 Time 03:05-22:40/ Mon-Fri; Break:10:25-11:05",
         "minimum": "1",
         "key": "5",

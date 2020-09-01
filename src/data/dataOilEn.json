@@ -2,7 +2,7 @@
     {
         "leverage": "Up tp 400",
         "symbol": "US Oil",
-        "stop": "100%",
+        "stop": "30%",
         "maximum": "100",
         "hours": "GMT+2 Time 01:05-23:55 / Mon-Thur；GMT+2 Time 01:05-23:40 /Fri",
         "minimum": "0.1",
@@ -13,7 +13,7 @@
     {
         "leverage": "Up tp 20",
         "symbol": "UK Oil",
-        "stop": "100%",
+        "stop": "30%",
         "maximum": "100",
         "hours": "GMT+2 Time 01:05-23:55 / Mon-Thur；GMT+2 Time 01:05-23:40 /Fri",
         "minimum": "0.1",

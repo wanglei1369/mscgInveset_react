@@ -2,7 +2,7 @@
     {
         "leverage": "Up to 400",
         "symbol": "黄金美元",
-        "stop": "100%",
+        "stop": "30%",
         "maximum": "10",
         "hours": "GMT+2 时间 01:05-23:55 / 周一到周四；GMT+2 时间 01:05-23:40 /Fri",
         "minimum": "0.01",
@@ -13,7 +13,7 @@
     {
         "leverage": "Up tp 400",
         "symbol": "白银美元",
-        "stop": "100%",
+        "stop": "30%",
         "maximum": "10",
         "hours": "GMT+2 时间 01:05-23:55 / 周一到周四；GMT+2 时间 01:05-23:40 /Fri",
         "minimum": "0.01",
