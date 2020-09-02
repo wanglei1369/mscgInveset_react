@@ -3,7 +3,7 @@
 import React, {Suspense} from "react"
 import {Link} from "react-router-dom"
 import {useTranslation} from "react-i18next"
-import footerImg from "../images/logoFooter.png"
+import footerImg from "../images/logoNavDark.png"
 import "../fonts/iconfont/iconfont.css"
 
 export default function Footer() {
